@@ -1,3 +1,9 @@
+---
+layout: page
+title: Coursework
+---
+
+
 # MESMerizing Engineers 
 
 Inspection Robot
