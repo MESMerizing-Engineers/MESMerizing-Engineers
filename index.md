@@ -4,11 +4,11 @@ Inspection Robot
 
 ## Team
 
-###Jen Dacanay
-###Uyen Do-Tran
-###Liam Moore
-###Nick Newcomb
-###Alex Yu
+#### Jen Dacanay
+#### Uyen Do-Tran
+#### Liam Moore
+#### Nick Newcomb
+#### Alex Yu
 
 # Header 1
 ## Header 2
