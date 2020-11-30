@@ -2,12 +2,13 @@
 
 Inspection Robot
 
-### Markdown
+## Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+###Jen Dacanay
+###Uyen Do-Tran
+###Liam Moore
+###Nick Newcomb
+###Alex Yu
 
 # Header 1
 ## Header 2
