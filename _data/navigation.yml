@@ -3,10 +3,10 @@
   url: /
 
 - title: about
-  url: /about/
+  url: /about.md/
 
 - title: test
-  url: /test/
+  url: /test.md/
 
 - title: index
-  url: /index/
+  url: /index.md/
