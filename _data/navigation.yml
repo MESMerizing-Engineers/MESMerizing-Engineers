@@ -2,11 +2,11 @@
 - title: Home
   url: /
 
-- title: About
-  url: /about
+- title: about
+  url: /about/
 
-- title: Test
-  url: /test
+- title: test
+  url: /test/
 
 - title: index
-  url: /index
+  url: /index/
