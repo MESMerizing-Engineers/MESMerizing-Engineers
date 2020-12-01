@@ -1,6 +1,6 @@
 ---
-title: "about"
-permalink: https://mesmerizing-engineers.github.io/MESMerizing-Engineers/about
+title: Test
+permalink: https://mesmerizing-engineers.github.io/MESMerizing-Engineers/test
 ---
 # The Test File 
 
