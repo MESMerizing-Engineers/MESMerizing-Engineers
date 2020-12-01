@@ -1,2 +1,5 @@
-Hello! This is the readme file for our Inspection Robot.
-Hopefully 
+layout: page
+title: "README"
+permalink: /about/README/
+
+Hello! This is where we will talk about our project...IF WE HAD ONE!!!!! 
