@@ -11,7 +11,7 @@ Inspection Robot
 #### Liam Moore
 #### Nick Newcomb
 #### Alex Yu
-[Check this link](https://en.wikipedia.org/wiki/WALL-E)
+
 # Header 1
 ## Header 2
 ### Header 3
