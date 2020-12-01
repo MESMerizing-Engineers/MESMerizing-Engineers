@@ -5,10 +5,10 @@ docs:
   url: /
 
 - title: About
-  url: /about/
+  url: /about
 
 - title: Test
-  url: /test/
+  url: /test
 
 - title: index
-  url: /index/
+  url: /index
