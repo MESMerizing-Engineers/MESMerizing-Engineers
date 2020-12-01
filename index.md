@@ -11,7 +11,7 @@ Inspection Robot
 #### Liam Moore
 #### Nick Newcomb
 #### Alex Yu
-
+[Check out this test link](test.md)
 # Header 1
 ## Header 2
 ### Header 3
