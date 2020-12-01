@@ -1,9 +1,12 @@
-___
+---
+layout: page
+title: Testing New Pages
+---
 
 # The Test File 
 
 Our Test
 
-## Programming is hard
+## Programming is super hard
 
 #### Winners
