@@ -1,6 +1,6 @@
 ---
 title: Test
-permalink: https://mesmerizing-engineers.github.io/MESMerizing-Engineers/test
+permalink: /test
 ---
 # The Test File 
 
