@@ -1,4 +1,8 @@
-# The Test File 
+theme: jekyll-theme-cayman
+title: MESMerizing Engineer
+description: Autonomous Inspection Robot
+
+# The Test Files 
 
 Our Test
 
