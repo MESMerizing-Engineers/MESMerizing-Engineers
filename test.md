@@ -1,8 +1,6 @@
 ---
-theme: jekyll-theme-cayman
-layout: page
-title: Test Pages
-description: Autonomous Inspection Robot
+title: "about"
+permalink: https://mesmerizing-engineers.github.io/MESMerizing-Engineers/about
 ---
 # The Test File 
 
