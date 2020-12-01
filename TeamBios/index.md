@@ -6,11 +6,11 @@ Inspection Robot
 
 ## Team
 
-[Jen Dacanay](Jen.md)
-[Uyen Do-Tran](Uyen.md)
-[Liam Moore](Liam.md)
-[Nick Newcomb](Nick.md)
-[Alex Yu](Alex.md)
+[Jen Dacanay](Jen.md)<br/>
+[Uyen Do-Tran](Uyen.md)<br/>
+[Liam Moore](Liam.md)<br/>
+[Nick Newcomb](Nick.md)<br/>
+[Alex Yu](Alex.md)<br/>
 [Check out this test link](test.md)
 # Header 1
 ## Header 2
