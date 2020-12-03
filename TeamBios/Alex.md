@@ -1,5 +1,4 @@
 ---
-title: about
 ---
 ![](images/AlexBioPic.jpg)
 
