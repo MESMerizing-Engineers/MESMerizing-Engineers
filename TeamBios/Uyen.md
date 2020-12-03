@@ -1,8 +1,4 @@
----
-layout: page
-title: about
-theme: jekyll-theme-cayman
----
+
 ![](images/UyenBioPic.png)
 
 My name is Uyen Do-Tran. I am a 4th year Electrical Engineering Major at UC Davis.  
