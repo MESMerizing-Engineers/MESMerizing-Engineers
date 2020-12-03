@@ -4,5 +4,5 @@ Team
 
 ##Uyen
 ##Liam
-##Nick <img href 
+##Nick <img href sadpanda>
 ##Alex
