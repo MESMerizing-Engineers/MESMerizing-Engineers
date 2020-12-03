@@ -4,13 +4,9 @@ ___
 
 Inspection Robot
 
-## Team
+## Home Page Content
 
-#### Jen Dacanay
-#### Uyen Do-Tran
-#### Liam Moore
-#### Nick Newcomb
-#### Alex Yu
+
 [Check out this test link](test.md)
 # Header 1
 ## Header 2
