@@ -1,15 +1,15 @@
 # Site navigation links
 - title: Home
-  url: /home.md
+  url: /
 
 - title: about
-  url: /about.md
+  url: /about
 
 - title: test
-  url: /test.md
+  url: /test
 
 - title: index
-  url: /index.md
+  url: /index
 
 - title: Team
-  url: /team.md
+  url: /team
