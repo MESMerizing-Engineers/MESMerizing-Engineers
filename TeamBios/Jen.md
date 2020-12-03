@@ -1,4 +1,3 @@
-
 ![](images/JenBioPic.png)
 
 Currently a senior at UC Davis, where I am pursuing a joint BS/MS in Electrical Engineering.  
