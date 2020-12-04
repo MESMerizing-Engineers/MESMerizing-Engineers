@@ -9,5 +9,5 @@
 [Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
 
 <p align="center">
-  <a href=https://lasers.llnl.gov/media/photo-gallery></a>
+  <a href=Data_Life_Cycle__V2.pdf></a>
   </p>
