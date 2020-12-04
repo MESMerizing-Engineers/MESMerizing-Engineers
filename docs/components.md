@@ -3,7 +3,7 @@ ___
 
 <H2><b>Structural</b></H2>
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/SparkMax.png" />
 </p>
 
