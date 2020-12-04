@@ -18,3 +18,4 @@ Inspection Robot
 <p align="center">
   <img src="docs/photos/CREO_top.jpg" />
 </p>
+</div>
