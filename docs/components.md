@@ -1,4 +1,4 @@
-___
+title: "Components"
 # Components
 <!-- <div align="center"><H1>Componenents</H1></div> -->
 
