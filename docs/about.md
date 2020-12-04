@@ -38,8 +38,8 @@ git clone https://github.com/LiamMoore27/MESMerizing_Engineers
 
 #### Software
 
-[Energia](https://www.ni.com/en-us/shop/labview.html)  
-Energia is required for the Drumpad and Footpad to compile and run the .ino files.
+[LabVIEW](https://www.ni.com/en-us/shop/labview.html)  
+LabVIEW
 
 #### Hardware & Model Creation
 
