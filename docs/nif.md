@@ -9,5 +9,5 @@
 [Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
 
 <p align="center">
-  <a href={%include youtubePlayer.html id="_5CisML8Q7I"%}>Photo Gallery</a>
+  <a href=https://lasers.llnl.gov/media/photo-gallery>Photo Gallery</a>
   </p>
