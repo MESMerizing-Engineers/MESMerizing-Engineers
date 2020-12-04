@@ -1,4 +1,6 @@
-# The National Ignition Facility
+___
+<div align="center"><H1>The National Ignition Facility </H1>
+
 |**National Security**|**Pursuing Ignition**|**Discovery Science**|**Energy Security**|
 |:---------------------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------:|
 
@@ -19,3 +21,5 @@ The frequent visual inspection of the amplifiers high voltage connections and ca
 {%include youtubePlayer.html id="_5CisML8Q7I"%}
 
 [Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
+
+</div>
