@@ -34,37 +34,6 @@ ___
 
 
 <p align="center">
-  <img src="photos/HexExtension.jpg" />
-</p>
-
-
-|   Name  |  Description   | Cost  | Weight|  Power  |
-|:-------:|:--------------:|:-----:|:-----:|:-------:|
-|Hex Shaft|    Extension   | 40.00 |       |         |
-
-
-<p align="center">
-  <img src="photos/hex_screw.jpg" />
-</p>
-
-
-|   Name  |  Description   | Cost  | Weight|  Power  |
-|:-------:|:--------------:|:-----:|:-----:|:-------:|
-|Hex Screw|      Screw     | 0.27  |       |         |
-
-
-
-<p align="center">
-  <img src="photos/hex_bearing.jpg" />
-</p>
-
-
-|   Name  |  Description   | Cost  | Weight|  Power  |
-|:-------:|:--------------:|:-----:|:-----:|:-------:|
-| Bearing |   Hex Bearing  | 24.00 |       |         |
-
-
-<p align="center">
   <img src="photos/turret.jpg" />
 </p>
 
