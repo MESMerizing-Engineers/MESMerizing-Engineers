@@ -17,11 +17,12 @@ The frequent visual inspection of the amplifiers high voltage connections and ca
 
 # How NIF Works
 
-{%include youtubePlayer.html id="yixhyPN0r3g"%}
+<div align="center">{%include youtubePlayer.html id="yixhyPN0r3g"%}</div>
 
 # What Goes into a Shot at the National Ignition Facility
 
-{%include youtubePlayer.html id="_5CisML8Q7I"%}
+
+<div align="center">{%include youtubePlayer.html id="_5CisML8Q7I"%}</div>
 
 [Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
 
