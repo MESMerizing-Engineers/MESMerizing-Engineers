@@ -1,6 +1,8 @@
-about
+# How NIF Works
+
+{%include youtubePlayer.html id="yixhyPN0r3g"%} 
+
+# What Goes into a Shot at the National Ignition Facility
 
 
-Hello! This is where we will talk about our project...IF WE HAD ONE!!!!! 
-
-{%include youtubePlayer.html id="F0xqU7Al2qc"%} 
+{%include youtubePlayer.html id="_5CisML8Q7I"%} 
