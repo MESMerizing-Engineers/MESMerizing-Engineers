@@ -1,16 +1,74 @@
 # About Our Project
 
-The National Ignition Facility (NIF) is the largest and most energetic laser system in the world. Its mission is to explore cutting edge research and development in high-energy density science in support of stockpile stewardship, discovery science, and energy security missions. 2 megajoule of UV laser light, in 192 beams, converge on to inertial confinement fusion targets, creating temperatures and pressures found only in the center of stars. 
+Due to the significant cost to complete visual inspections with pulse power technicians, an inspection robot will be designed to complete visual pre-inspections remotely to significantly reduce technician time spent on this task and increase the number of inspections.
 
-![](Pictures/nif/amplification.jpg) 
+<p align="center">
+  <img src="photos/wallE.jpg" />
+</p>
 
-Each laser beam starts off as 1nJ of 1064 nm laser light and is amplified in several stages to roughly 25 kJ, a power gain of nearly 1010. In the last stage of amplification, 7680 flashlamps are driven by the Power Conditioning System (PCS) 192 main energy storage modules (MESM) that store a total of 400 megajoule in nearly 4000 high-energy capacitors. Each module delivers a 450us, 24kv, 500 kA to 40 flashlamps. The amplifiers are divided into 4 clusters, and each cluster is divided into two amplifier types clusters, the Main Amplifiers cluster and the Power Amplifiers cluster.
-The frequent visual inspection of the amplifiers high voltage connections and cabling are required to maintain reliable performance. These inspections are normally completed by trained pulse power technicians and take up several hundred hours of time over a typical year.
+# MESMerizing_Engineers.github.io
 
-![](Pictures/nif/ignition2.jpg) 
+MESMerizing Engineers is a team of UC Davis students working together to create Hawkeye, an autonomous inspection robot for their senior design project in EEC 193.
 
-Due to the significant cost to complete these visual inspections with pulse power technicians, an inspection robot will be designed to complete visual pre-inspections remotely to significantly reduce technician time spent on this task and increase the number of inspections.
+Meet the [Team](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers/blob/gh-pages/docs/TeamBios/team.md)
 
-![](Pictures/nif/wallE.jpg) 
+## Table of Contents
 
-{%include youtubePlayer.html id="F0xqU7Al2qc"%}
+1. [About the Project](#about-our-project)
+2. [Project Status](#project-status)
+3. [Getting Started](#getting-started)
+    1. [Dependencies](#dependencies)
+    1. [Building](#building)
+4. [How to Get Help](#how-to-get-help)
+5. [Further Reading](#further-reading)
+6. [Authors](#authors)
+7. [Acknowledgements](#acknowledgements)
+
+
+# Project Status
+
+Research and development and procurement of materials.
+
+# Getting Started
+
+This repository can be downloaded [here](https://github.com/LiamMoore27/MESMerizing_Engineers/archive/master.zip), or cloned by:
+```
+git clone https://github.com/LiamMoore27/MESMerizing_Engineers
+```
+
+## Dependencies
+
+#### Software
+
+[LabVIEW](https://www.ni.com/en-us/shop/labview.html)  
+LabVIEW
+
+#### Hardware & Model Creation
+
+[CREO Parametric](https://www.ptc.com/en/products/creo/parametric) was used for creation of enclosures and other mechancial designs.
+
+## Building
+
+Chassis and enclosure files will be located in their respective subdirectories. These will be fabricated either with a 3D printer, a laser cutter, or water jet.
+
+Software for the robot will have to be compiled and loaded into their respective MCU's either in LabVIEWW GPU or Nvidia.
+
+# How to Get Help
+
+You can request any changes by making a [pull request](https://github.com/LiamMoore27/MESMerizing_Engineers.github.io/pulls) or opening an issue.
+
+# Further Reading
+* [Navigation](https://www.intelrealsense.com/visual-navigation-in-robotics/)
+
+# Authors
+
+* [Liam Moore](https://github.com/LiamMoore27)
+* [Alex Yu](https://github.com/LiamMoore27)
+* [Jennifer Dacanay](https://github.com/JenDacanay)
+* [Nicholas Newcomb](https://github.com/LiamMoore27)
+* [Uyen Do-Tran](https://github.com/LiamMoore27)
+
+# Acknowledgments
+
+Thank you to the NIF team at LLNL, Bruno J. Le Galloudec, Evan Carroll, and Tyron Landrek Bettis for sponsoring EEC 193 Senior Design Project, along with Professor Rajeevan Amirtharajah. We would not have gotten this far without their help and support.
+

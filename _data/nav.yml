@@ -2,7 +2,7 @@
 - title: Home
   url: /
 
-- title: about
+- title: About
   url: /docs/about
 
 - title: Team Bio
@@ -10,7 +10,9 @@
   
 - title: NIF
   url: /docs/nif
-  
+
+- title: Components
+  url: /docs/components
 
 - title: Test
   url: /docs/test
