@@ -33,7 +33,7 @@ Research and development and procurement of materials.
 
 This repository can be downloaded [here](https://github.com/LiamMoore27/MESMerizing_Engineers/archive/master.zip), or cloned by:
 ```
-git clone https://github.com/LiamMoore27/MESMerizing_Engineers
+git clone https://github.com/MESMerizing-Engineers/MESMerizing-Engineers.git
 ```
 
 ## Dependencies
