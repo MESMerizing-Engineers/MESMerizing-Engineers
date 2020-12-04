@@ -22,3 +22,56 @@ ___
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
 
+
+<p align="center" style="display:inline">
+  <img src="gearbox.png" />
+</p>
+
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
+
+
+<p align="center" style="display:inline">
+  <img src="HexExtension.jpg" />
+</p>
+
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|Hex Shaft|    Extension   | 40.00 |       |         |
+
+
+<p align="center" style="display:inline">
+  <img src="hex_screw.jpg" />
+</p>
+
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|Hex Screw|      Screw     | 0.27  |       |         |
+
+
+
+<p align="center" style="display:inline">
+  <img src="hex_bearing.jpg" />
+</p>
+
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+| Bearing |   Hex Bearing  | 24.00 |       |         |
+
+
+<p align="center" style="display:inline">
+  <img src="turret.jpg" />
+</p>
+
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:--------:|
+|Phantom X|  Camera Mount  |222.33 |  0.5  |6.24 watts|
+
+
+<H2><b>Power/Battery</b></H2>
