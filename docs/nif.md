@@ -1,6 +1,6 @@
 ___
 <div align="center"><H1>The National Ignition Facility</H1></div>
-<div align="center"><H2>|**National Security**|**Pursuing Ignition**|**Discovery Science**|**Energy Security**|</H2></div>
+<div align="center"><H2>|National Security|Pursuing Ignition|Discovery Science|Energy Security|</H2></div>
 
 The National Ignition Facility (NIF) is the largest and most energetic laser system in the world. Its mission is to explore cutting edge research and development in high-energy density science in support of stockpile stewardship, discovery science, and energy security missions. 2 megajoule of UV laser light, in 192 beams, converge on to inertial confinement fusion targets, creating temperatures and pressures found only in the center of stars. 
 
