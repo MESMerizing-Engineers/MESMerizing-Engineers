@@ -1,3 +1,6 @@
+---
+title: "The National Ignition Facility"
+---
 ___
 <div align="center"><H1>The National Ignition Facility</H1></div>
 <div align="center"><H3>|National Security|Pursuing Ignition|Discovery Science|Energy Security|</H3></div>
