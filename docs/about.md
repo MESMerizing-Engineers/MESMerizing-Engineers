@@ -54,7 +54,7 @@ Software for the robot will have to be compiled and loaded into their respective
 
 # How to Get Help
 
-You can request any changes by making a [pull request](https://github.com/LiamMoore27/MESMerizing_Engineers.github.io/pulls) or opening an issue.
+You can request any changes by making a [pull request](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers.github.io/pulls) or opening an issue.
 
 # Further Reading
 * [Navigation](https://www.intelrealsense.com/visual-navigation-in-robotics/)
