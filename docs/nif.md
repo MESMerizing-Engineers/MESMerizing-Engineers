@@ -6,6 +6,6 @@
 
 {%include youtubePlayer.html id="_5CisML8Q7I"%}
 
-<div align="center"><H2>[Photo Gallery](https://lasers.llnl.gov/media/photo-gallery) </H2></div>
+<div align="center">[Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)</div>
 <div style="text-align:center">    
   <a href="https://lasers.llnl.gov/media/photo-gallery">Photo Gallery</a></div>
