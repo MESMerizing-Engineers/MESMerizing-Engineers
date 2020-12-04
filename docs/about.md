@@ -40,8 +40,7 @@ git clone https://github.com/LiamMoore27/MESMerizing_Engineers
 
 #### Software
 
-[LabVIEW](https://www.ni.com/en-us/shop/labview.html)  
-LabVIEW
+[LabVIEW](https://www.ni.com/en-us/shop/labview.html) will be used to control the software and hardware of the robot.
 
 #### Hardware & Model Creation
 
