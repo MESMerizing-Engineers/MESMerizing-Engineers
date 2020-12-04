@@ -13,7 +13,10 @@ The National Ignition Facility (NIF) is the largest and most energetic laser sys
 Each laser beam starts off as 1nJ of 1064 nm laser light and is amplified in several stages to roughly 25 kJ, a power gain of nearly 1010. In the last stage of amplification, 7680 flashlamps are driven by the Power Conditioning System (PCS) 192 main energy storage modules (MESM) that store a total of 400 megajoule in nearly 4000 high-energy capacitors. Each module delivers a 450us, 24kv, 500 kA to 40 flashlamps. The amplifiers are divided into 4 clusters, and each cluster is divided into two amplifier types clusters, the Main Amplifiers cluster and the Power Amplifiers cluster.
 The frequent visual inspection of the amplifiers high voltage connections and cabling are required to maintain reliable performance. These inspections are normally completed by trained pulse power technicians and take up several hundred hours of time over a typical year.
 
-![](photos/ignition2.jpg)
+<p align="center">
+  <img src="photos/ignition2.jpg" />
+</p>
+<!--![](photos/ignition2.jpg)-->
 
 # How NIF Works
 
