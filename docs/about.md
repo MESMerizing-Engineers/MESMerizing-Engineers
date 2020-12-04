@@ -12,7 +12,7 @@ MESMerizing Engineers is a team of UC Davis students working together to create 
 
 ## Table of Contents
 
-1. [About the Project](#about-the-project)
+1. [About the Project](#about-our-project)
 2. [Project Status](#project-status)
 3. [Getting Started](#getting-started)
     1. [Dependencies](#dependencies)
@@ -22,9 +22,6 @@ MESMerizing Engineers is a team of UC Davis students working together to create 
 6. [Authors](#authors)
 7. [Acknowledgements](#acknowledgements)
 
-# About the Project
-
-Hawkeye is an inspection robot autonomous robot developed for the NIF team at LLNL. 
 
 # Project Status
 
