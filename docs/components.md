@@ -1,8 +1,8 @@
 ---
 title: "Components"
 ---
-# Components
-<!-- <div align="center"><H1>Componenents</H1></div> -->
+
+<div align="center"><H1>Componenents</H1></div>
 
 <H2><b>Structural</b></H2>
 
