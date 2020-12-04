@@ -26,7 +26,19 @@ Hello, my name is Liam Moore and I am currently an undergraduate at UC Davis pur
 
 My name is Nick Newcomb and I am pursuing a joint BS/MS degree in electrical engineering at UC Davis. I am a first-generation college student and decided to pursue my education after serving in the United States Navy for 8 years. While in the Navy I served as a nuclear operations instructor at a prototype reactor as well as a propulsion plant supervisor aboard the USS Carl Vinson. As a Navy veteran and former nuclear reactor operator I maintain core values of integrity, ownership and commitment to excellence. I aspire to find a career that combines these core values with my education in electrical engineering to continue serving my country and feel a sense of purpose. My research interests include RF engineering and photonics, and I am currently working on designing diagnostic equipment that will aid in measuring magnetic fields generated in pulsed power systems. 
 
-[Alex Yu](Alex.md)<br/>
+
+    <style type="text/css">
+    [Alex Yu](Alex.md)<br/>-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+      Hello! My name is Alex Yu. I am currently an undergraduate Computer Engineering student at UC Davis. I was born and raised in Sacramento. Out of high school, I wanted         to do my part for my country so I enlisted with the U.S. Army Reserve as a Cargo Specialist. Returning from training, I enrolled in community college where I started         pursuing my love for computers and tech. A dream of mine has always been to help create computer processors. Recently, I have taken an interest in computer vision and         machine learning. 
+
+    }
+    </style>
+
+
 
 ![](images/AlexBioPic.jpg)
 
