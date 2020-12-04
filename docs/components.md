@@ -1,4 +1,6 @@
 ___
+title: Components
+___
 # Components
 <!-- <div align="center"><H1>Componenents</H1><div> -->
 
