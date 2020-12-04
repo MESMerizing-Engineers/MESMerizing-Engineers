@@ -10,7 +10,7 @@ Due to the significant cost to complete visual inspections with pulse power tech
 
 MESMerizing Engineers is a team of UC Davis students working together to create Hawkeye, an autonomous inspection robot for their senior design project in EEC 193.
 
-Meet the [Team](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers/blob/gh-pages/docs/TeamBios/team.md)
+Meet the [Team](https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/TeamBios/team)
 
 ## Table of Contents
 
