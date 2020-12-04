@@ -28,7 +28,7 @@ My name is Nick Newcomb and I am pursuing a joint BS/MS degree in electrical eng
 
 
     <style type="text/css">
-    [Alex Yu](Alex.md)<br/>-left {
+    (images/AlexBioPic.jpg)<br/>-left {
       display: block;
       margin-left: auto;
       margin-right: auto;
