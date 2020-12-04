@@ -9,5 +9,5 @@
 [Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
 
 <p align="center">
-  <a href="Photo Gallery">[Photo](ttps://lasers.llnl.gov/media/photo-gallery)</a>
+  <a href="Photo Gallery">Photo Gallery</a>
   </p>
