@@ -1,5 +1,6 @@
 ___
-<div align="center"><H1>Componenents</H1><div>
+# Components
+<!-- <div align="center"><H1>Componenents</H1><div> -->
 
 <H2><b>Structural</b></H2>
 
