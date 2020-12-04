@@ -43,11 +43,11 @@ Software for the robot will have to be compiled and loaded into their respective
 
 # Authors
 
-* [Liam Moore](https://github.com/LiamMoore27)
-* [Alex Yu](https://github.com/LiamMoore27)
-* [Jennifer Dacanay](https://github.com/JenDacanay)
-* [Nicholas Newcomb](https://github.com/LiamMoore27)
-* [Uyen Do-Tran](https://github.com/LiamMoore27)
+* [Liam Moore]
+* [Alex Yu]
+* [Jennifer Dacanay]
+* [Nicholas Newcomb]
+* [Uyen Do-Tran]
 
 # Acknowledgments
 
