@@ -8,40 +8,40 @@ ___
   <img src="photos/SparkMax.png" />
 </p>
 
-<div align="center">
+<center>
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
-</div>
+</center>
 
 <p align="center">
   <img src="photos/NEO.png" />
 </p>
 
-<div align="center">
+<center>
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
-</div>
+</center>
 
 <p align="center">
   <img src="photos/gearbox.png" />
 </p>
 
-<div align="center">
+<center>
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
-</div>
+</center>
 
 <p align="center">
   <img src="photos/turret.jpg" />
 </p>
 
-<div align="center">
+<center>
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Phantom X|  Camera Mount  |222.33 |  0.5  |6.24 watts|
-</div>
+</center>
 
 <H2><b>Power/Battery</b></H2>
