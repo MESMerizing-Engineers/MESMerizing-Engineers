@@ -8,3 +8,6 @@
 
 [Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
 
+<p align="center">
+  <a href="Photo Gallery">https://lasers.llnl.gov/media/photo-gallery</a>
+  </p>
