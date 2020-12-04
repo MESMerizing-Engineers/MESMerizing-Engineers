@@ -13,7 +13,7 @@ ___
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
 
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/NEO.png" />
 </p>
 
@@ -23,7 +23,7 @@ ___
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
 
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/gearbox.png" />
 </p>
 
@@ -33,7 +33,7 @@ ___
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
 
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/HexExtension.jpg" />
 </p>
 
@@ -43,7 +43,7 @@ ___
 |Hex Shaft|    Extension   | 40.00 |       |         |
 
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/hex_screw.jpg" />
 </p>
 
@@ -54,7 +54,7 @@ ___
 
 
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/hex_bearing.jpg" />
 </p>
 
@@ -64,7 +64,7 @@ ___
 | Bearing |   Hex Bearing  | 24.00 |       |         |
 
 
-<p align="center" style="display:inline">
+<p align="center">
   <img src="photos/turret.jpg" />
 </p>
 
