@@ -24,7 +24,7 @@ ___
 
 
 <p align="center" style="display:inline">
-  <img src="gearbox.png" />
+  <img src="photos/gearbox.png" />
 </p>
 
 
@@ -34,7 +34,7 @@ ___
 
 
 <p align="center" style="display:inline">
-  <img src="HexExtension.jpg" />
+  <img src="photos/HexExtension.jpg" />
 </p>
 
 
@@ -44,7 +44,7 @@ ___
 
 
 <p align="center" style="display:inline">
-  <img src="hex_screw.jpg" />
+  <img src="photos/hex_screw.jpg" />
 </p>
 
 
@@ -55,7 +55,7 @@ ___
 
 
 <p align="center" style="display:inline">
-  <img src="hex_bearing.jpg" />
+  <img src="photos/hex_bearing.jpg" />
 </p>
 
 
@@ -65,7 +65,7 @@ ___
 
 
 <p align="center" style="display:inline">
-  <img src="turret.jpg" />
+  <img src="photos/turret.jpg" />
 </p>
 
 
