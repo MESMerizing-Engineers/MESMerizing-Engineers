@@ -20,7 +20,7 @@ In 2012, I came to America with my family. I have been in FIRST robotics program
 ![](images/LiamBioPic.jpeg)<br/>
 Hello, my name is Liam Moore and I am currently an undergraduate at UC Davis pursuing my BS in Electrical Engineering. My area of interest is RF and microwave engineering more specifically, the theory, techniques, and applications of guided wave and wireless technologies. After graduating from UC Davis my plan is to continue my education in pursuit of a Master's degree. Upon finishing my formal education, I intend to move back to Germany where I can hopefully find work in the aerospace industry. 
 
-[Nick Newcomb](Nick.md)<br/>
+
 
 ![](images/NickBioPic.jpg)
 
@@ -32,6 +32,5 @@ Hello! My name is Alex Yu. I am currently an undergraduate Computer Engineering 
 
 | | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
-|**Nick Newcomb** <br/> **Electrical/Programming** <br/> B.S./M.S. Electrical Engineering June 2021/June 2022 <br/> Focus: DSP Engineer/Machine Learning <br/> | ![](images/NickBioPic.jpg) |
-|**Alex Yu** <br/> **Electrical/Programming** <br/> B.S. Computer Engineering June 2021<br/> Focus: Compouter Architecture/Machine Learning <br/> Hello! My name is Alex Yu. I am currently an undergraduate Computer Engineering student at UC Davis. I was born and raised in Sacramento. Out of high school, I wanted to do my part for my country so I enlisted with the U.S. Army Reserve as a Cargo Specialist. Returning from training, I enrolled in community college where I started pursuing my love for computers and tech. A dream of mine has always been to help create computer processors. Recently, I have taken an interest in computer vision and machine learning. 
-<br/> | ![](images/AlexBioPic.jpg) |
+|**Nick Newcomb** <br/> **Electrical/Programming** <br/> B.S./M.S. Electrical Engineering June 2021/June 2022 <br/> Focus: DSP Engineer/Machine Learning <br/> [Bio/Interests](Nick.md)<br/> | ![](images/NickBioPic.jpg) |
+|**Alex Yu** <br/> **Electrical/Programming** <br/> B.S. Computer Engineering June 2021<br/> Focus: Compouter Architecture/Machine Learning <br/> | ![](images/AlexBioPic.jpg) |
