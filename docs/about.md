@@ -2,6 +2,8 @@
 
 The National Ignition Facility (NIF) is the largest and most energetic laser system in the world. Its mission is to explore cutting edge research and development in high-energy density science in support of stockpile stewardship, discovery science, and energy security missions. 2 megajoule of UV laser light, in 192 beams, converge on to inertial confinement fusion targets, creating temperatures and pressures found only in the center of stars. 
 
+ ![](photos/amplification.jpg)
+
 <div align="center"> ![](photos/amplification.jpg) </div>
 
 Each laser beam starts off as 1nJ of 1064 nm laser light and is amplified in several stages to roughly 25 kJ, a power gain of nearly 1010. In the last stage of amplification, 7680 flashlamps are driven by the Power Conditioning System (PCS) 192 main energy storage modules (MESM) that store a total of 400 megajoule in nearly 4000 high-energy capacitors. Each module delivers a 450us, 24kv, 500 kA to 40 flashlamps. The amplifiers are divided into 4 clusters, and each cluster is divided into two amplifier types clusters, the Main Amplifiers cluster and the Power Amplifiers cluster.
