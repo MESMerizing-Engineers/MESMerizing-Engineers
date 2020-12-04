@@ -16,27 +16,13 @@ Meet the [Team](https://mesmerizing-engineers.github.io/MESMerizing-Engineers/do
 
 1. [About the Project](#about-our-project)
 2. [Project Status](#project-status)
-3. [Getting Started](#getting-started)
-    1. [Dependencies](#dependencies)
-    1. [Building](#building)
-4. [How to Get Help](#how-to-get-help)
 5. [Further Reading](#further-reading)
 6. [Authors](#authors)
 7. [Acknowledgements](#acknowledgements)
 
-
 # Project Status
 
 Research and development and procurement of materials.
-
-# Getting Started
-
-This repository can be downloaded [here](https://github.com/LiamMoore27/MESMerizing_Engineers/archive/master.zip), or cloned by:
-```
-git clone https://github.com/MESMerizing-Engineers/MESMerizing-Engineers
-```
-
-## Dependencies
 
 #### Software
 
@@ -51,10 +37,6 @@ git clone https://github.com/MESMerizing-Engineers/MESMerizing-Engineers
 Chassis and enclosure files will be located in their respective subdirectories. These will be fabricated either with a 3D printer, a laser cutter, or water jet.
 
 Software for the robot will have to be compiled and loaded into their respective MCU's either in LabVIEWW GPU or Nvidia.
-
-# How to Get Help
-
-You can request any changes by making a [pull request](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers.github.io/pulls) or opening an issue.
 
 # Further Reading
 * [Navigation](https://www.intelrealsense.com/visual-navigation-in-robotics/)
