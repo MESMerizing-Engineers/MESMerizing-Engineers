@@ -6,4 +6,4 @@
 
 {%include youtubePlayer.html id="_5CisML8Q7I"%}
 
-[Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
+<div align="center"><H2>[Photo Gallery](https://lasers.llnl.gov/media/photo-gallery) </H2></div>
