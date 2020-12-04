@@ -4,7 +4,7 @@ title: "Components"
 
 <div align="center"><H1>Components</H1></div>
 
-<H2><b>Structural</b></H2>
+<div align="center"><H2><b>Structural</b></H2></div>
 
 <p align="center">
   <img src="photos/SparkMax.png" />
