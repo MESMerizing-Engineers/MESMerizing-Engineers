@@ -1,7 +1,6 @@
 ___
 <div align="center"><H2> Team </H2></div>
 
-| | |
 |:---------------------------------------------------------:|:---------------------------------------------------:|
 |**Jen Dacanay** <br/> **Electrical/Programming** <br/> B.S./M.S. Electrical Engineering June 2021/June 2022 <br/> Focus: Signals/Circuits <br/> [Bio/Interests](Jen.md)<br/> | ![](images/JenBioPic.png) |
 |**Uyen Do-Tran** <br/> **Electrical/Programming** <br/> B.S. Electrical Engineering June 2021 <br/> Focus: Digital Comm./Robotics/DSP <br/> [Bio/Interests](Uyen.md)<br/> | ![](images/UyenBioPic.png) |
