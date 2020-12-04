@@ -8,4 +8,4 @@
 <div>
  <video class="center" src="https://lasers.llnl.gov/media/photo-gallery" controls poster="dossierimage/imagex.jpg" width="600">⁪</video>
 </div>
-[Photo Gallery](https://lasers.llnl.gov/media/photo-gallery)
+
