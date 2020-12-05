@@ -17,11 +17,11 @@ title: "Components"
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
-<a name="anchor1">
+
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
-</a>
+<a name="anchor1"></a>
 <p align="center">
   <img src="photos/NEO.png" />
 </p>
