@@ -1,6 +1,7 @@
 ---
 title: "Components"
 ---
+<!--
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
@@ -9,6 +10,13 @@ title: "Components"
     <a href="#">Link 3</a>
   </div>
 </div>
+-->
+<details>
+  <p>Requires a computer running an operating system. The computer
+  must have some memory and ideally some kind of long-term storage.
+  An input device as well as some form of output device is
+  recommended.</p>
+</details>
 
 <div align="center"><H1>Components</H1></div>
 
