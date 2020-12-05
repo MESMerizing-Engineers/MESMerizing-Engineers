@@ -4,7 +4,7 @@ title: "Components"
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-    <a href=h1>Link 1</a>
+    <a href=>Link 1</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
@@ -17,11 +17,11 @@ title: "Components"
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
-<h1>
+<a name="anchor1">
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
-</h1>
+</a>
 <p align="center">
   <img src="photos/NEO.png" />
 </p>
