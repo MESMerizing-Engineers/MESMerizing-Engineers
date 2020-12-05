@@ -12,10 +12,7 @@ title: "Components"
 </div>
 -->
 <details>
-  <p>Requires a computer running an operating system. The computer
-  must have some memory and ideally some kind of long-term storage.
-  An input device as well as some form of output device is
-  recommended.</p>
+  <p>Motor Controller</p>
 </details>
 
 <div align="center"><H1>Components</H1></div>
@@ -25,6 +22,7 @@ title: "Components"
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
+<div id="MC">
 
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
