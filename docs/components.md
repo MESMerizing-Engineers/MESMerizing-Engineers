@@ -12,7 +12,7 @@ title: "Components"
 </div>
 -->
 <details>
- <a href="components.md#MC">Jump to #MC on components.md</a>
+ <a href="components.md#MC">Motor Controller</a>
 </details>
 
 <div align="center"><H1>Components</H1></div>
