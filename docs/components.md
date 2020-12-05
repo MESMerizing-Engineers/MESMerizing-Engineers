@@ -13,13 +13,13 @@ title: "Components"
 -->
 <details>
  <a href="components.md#MC">Motor Controller</a></br>
- <a href="components.md#Brushless-Motor">Brushless Motor Controller</a>
+ <a href="components.md#Brushless-Motor">Brushless Motor Controller</a></br>
 </details>
 
 <div align="center"><H1>Components</H1></div>
 
 <div align="center"><H2><b>Structural</b></H2>
-  <div id="MC"></div>
+  <div id="MC">
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
