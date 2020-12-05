@@ -19,7 +19,7 @@ title: "Components"
 <div align="center"><H1>Components</H1></div>
 
 <div align="center"><H2><b>Structural</b></H2>
-  <div id="MC">
+<div id="MC">
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
