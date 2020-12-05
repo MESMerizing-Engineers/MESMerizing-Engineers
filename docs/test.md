@@ -1,6 +1,9 @@
 ---
 title: Test Page
 ---
+<p align="center">
+  <img src="photos/SparkMax.png" />
+</p>
 
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
