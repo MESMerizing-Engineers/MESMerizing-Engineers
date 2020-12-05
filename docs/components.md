@@ -12,8 +12,8 @@ title: "Components"
 </div>
 -->
 <details>
- <a href="components.md#MC">Motor Controller</a>
-  <a href="components.md#Brushless-Motor">Brushless Motor Controller</a>
+ <a href="components.md#MC">Motor Controller</a></br>
+ <a href="components.md#Brushless-Motor">Brushless Motor Controller</a>
 </details>
 
 <div align="center"><H1>Components</H1></div>
@@ -29,7 +29,7 @@ title: "Components"
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
 <!--<a name="anchor1"></a>-->
-<div id="Brushless-Motot"></div>
+<div id="Brushless-Motor"></div>
 <p align="center">
   <img src="photos/NEO.png" />
 </p>
