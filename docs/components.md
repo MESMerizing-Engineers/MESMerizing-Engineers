@@ -12,7 +12,7 @@ title: "Components"
 </div>
 -->
 <details>
-  <summary>Components List</summary
+  <summary>Components List</summary>
  <a href="components.md#MC">Motor Controller</a></br>
  <a href="components.md#Brushless-Motor">Brushless Motor Controller</a></br>
  <a href="components.md#Gearbox">Gearbox</a></br>
