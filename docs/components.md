@@ -14,12 +14,14 @@ title: "Components"
 <details>
  <a href="components.md#MC">Motor Controller</a></br>
  <a href="components.md#Brushless-Motor">Brushless Motor Controller</a></br>
+ <a href="components.md#Gearbox">Gearbox</a></br>
+ <a href="components.md#Camera-Mount">Camera Mount</a></br>
 </details>
 
 <div align="center"><H1>Components</H1></div>
 
 <div align="center"><H2><b>Structural</b></H2>
-<div id="MC">
+  <div id="MC"></div>
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
@@ -38,7 +40,7 @@ title: "Components"
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
 
-
+<div id="Gearbox"></div>
 <p align="center">
   <img src="photos/gearbox.png" />
 </p>
@@ -48,7 +50,7 @@ title: "Components"
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
 
-
+<div id="Camera-Mount"></div>
 <p align="center">
   <img src="photos/turret.jpg" />
 </p>
