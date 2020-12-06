@@ -6,5 +6,5 @@ title: "Documentation"
 
 <center>
   <img src="photos/Data Life Cycle Diagram.png" />
-<center>
+</center>
 <a href="Data_Life_Cycle__V2.pdf">Download Data Life Cycle Here</a>
