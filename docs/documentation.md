@@ -7,4 +7,5 @@ title: "Documentation"
 <center>
   <img src="photos/Data Life Cycle Diagram.png" />
 <center>
-![Download Data Life Cycle PDF Here](docs/Data_Life_Cycle__V2.pdf)
+<a href="Data_Life_Cycle__V2.pdf" download>Click to Download</a>
+[Download Data Life Cycle PDF Here](docs/Data_Life_Cycle__V2.pdf)
