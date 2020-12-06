@@ -13,10 +13,10 @@ title: "Components"
 -->
 <details>
   <summary>Components List</summary>
- <a href="test.md#MC">Motor Controller</a></br>
- <a href="test.md#Brushless-Motor">Brushless Motor Controller</a></br>
- <a href="test.md#Gearbox">Gearbox</a></br>
- <a href="test.md#Camera-Mount">Camera Mount</a></br>
+ <a href="component.md#MC">Motor Controller</a></br>
+ <a href="component.md#Brushless-Motor">Brushless Motor Controller</a></br>
+ <a href="component.md#Gearbox">Gearbox</a></br>
+ <a href="component.md#Camera-Mount">Camera Mount</a></br>
 </details>
 
 <div align="center"><H1>Components</H1></div>
