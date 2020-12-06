@@ -38,9 +38,9 @@ title: "Components"
   <img src="photos/SparkMax.png" />
 </p>
 <div align= "center">
-|   Name  |  Description   | Cost | Weight|  Power  |
-|:-------:|:--------------:|:----:|:-----:|:-------:|
-|Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
+|   Name  |  Description   | Cost | Weight|  Power  |</br>
+|:-------:|:--------------:|:----:|:-----:|:-------:|</br>
+|Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|</br>
 </div>
 <div id="Brushless-Motor"></div>
 <p align="center">
