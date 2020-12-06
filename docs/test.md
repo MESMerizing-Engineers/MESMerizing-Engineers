@@ -1,7 +1,7 @@
 ---
 title: Test Page
 ---
-
+<!-- Changes made by Liam 12/5 -->
 <details>
   <summary>Components List</summary>
  <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#MC">Motor Controller</a><br/>
@@ -32,7 +32,7 @@ title: Test Page
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
 
 
-<!-- Changes made by Liam 12/5 -->
+
 <div id="Brushless-Motor"></div>
 <p align="center">
   <img src="photos/NEO.png" />
