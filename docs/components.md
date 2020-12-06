@@ -4,8 +4,6 @@ title: "Components"
 
 <div align="center"><H1>Components</H1></div>
 
-<div align="center"><H2><b>Structural</b></H2></div>
-  
 <details>
   <summary>Components List</summary>
   <ul>
@@ -30,6 +28,10 @@ title: "Components"
     </ul>
   </ul>
 </details>
+
+<div align="center"><H2><b>Structural</b></H2></div>
+  
+
 
 <div id="MC"></div>
 <p align="center">
