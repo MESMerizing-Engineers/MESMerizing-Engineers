@@ -17,6 +17,7 @@ title: "Components"
     <li> Power </li>
     <ul>
     <!-- Put Power Components Here -->
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#bms">Battery Managment System</a></li>
     </ul>
     <li> Control </li>
     <ul>
@@ -71,3 +72,11 @@ title: "Components"
 |Phantom X|  Camera Mount  |222.33 |  0.5  |6.24 watts|
 
 <div align ="center"><H2><b>Power/Battery</b></H2></div>
+
+<div id= "bms"></div>
+<p align="center">
+  <img src="photos/bms.jpg" />
+</p>
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:--------:|
+|Roboteq 1040A|  Battery Managment System  |395.74 |  0.558  |watts|
