@@ -77,6 +77,23 @@ title: "Components"
 <p align="center">
   <img src="photos/bms.jpg" />
 </p>
+<TABLE>
+   <TR>
+    <TD>Name</TD>
+    <TD>Desciption</TD>
+    <TD>Cost</TD> 
+    <TD>Weight</TD>
+    <TD>Power</TD>
+  </TR>
+  <TR>
+    <TD>Roboteq 1040A</TD>
+    <TD>Battery Managment System</TD>
+    <TD>395.74</TD> 
+    <TD>0.558</TD>
+    <TD>watts</TD>
+  </TR>
+  </TABLE>
+  
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Roboteq 1040A|  Battery Managment System  |395.74 |  0.558  |watts|
