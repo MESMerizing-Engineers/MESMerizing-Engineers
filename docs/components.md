@@ -24,8 +24,9 @@ title: "Components"
     <ul>
     <!-- Put Control Components Here -->
     </ul>
+    <li> Sensors </li>
     <ul>
-      <!-- Put Camera Components Here -->
+      <!-- Put Sensor Components Here -->
     </ul>
   </ul>
 </details>
