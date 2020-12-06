@@ -11,7 +11,7 @@ title: "Components"
   <ul>
     <li> Structural</li>
     <ul>
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#MC">Motor Controller</a><li/>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#MC">Motor Controller</a></li>
  <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Brushless-Motor">Brushless Motor Controller</a>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Gearbox">Gearbox</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Camera-Mount">Camera Mount</a></li>
