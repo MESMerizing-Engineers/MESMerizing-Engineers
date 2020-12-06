@@ -16,7 +16,7 @@ title: Test Page
     <ul>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#MC">Motor Controller</a><li/>
  <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#Brushless-Motor">Brushless Motor Controller</a>
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#Gearbox">Gearbox</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#Gearbox">Gearbox</a><li/>
     </ul>
     <li> Power </li>
   </ul>
