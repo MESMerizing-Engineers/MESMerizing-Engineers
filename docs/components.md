@@ -17,6 +17,16 @@ title: "Components"
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Camera-Mount">Camera Mount</a></li>
     </ul>
     <li> Power </li>
+    <ul>
+    <!-- Put Power Components Here -->
+    </ul>
+    <li> Control </li>
+    <ul>
+    <!-- Put Control Components Here -->
+    </ul>
+    <ul>
+      <!-- Put Camera Components Here -->
+    </ul>
   </ul>
 </details>
 
