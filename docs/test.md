@@ -5,8 +5,8 @@ title: Test Page
 <details>
   <summary>Components List</summary>
  <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#MC">Motor Controller</a><br/>
- <a href="test.md#Brushless-Motor">Brushless Motor Controller</a><br/>
- <a href="test.md#Gearbox">Gearbox</a><br/>
+ <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#Brushless-Motor">Brushless Motor Controller</a><br/>
+ <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/test#Gearbox">Gearbox</a><br/>
 </details>
 
 <div id="MC"></div>
