@@ -70,4 +70,4 @@ title: "Components"
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Phantom X|  Camera Mount  |222.33 |  0.5  |6.24 watts|
 
-<H2><b>Power/Battery</b></H2></div>
+<div align ="center"><H2><b>Power/Battery</b></H2></div>
