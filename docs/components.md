@@ -5,7 +5,22 @@ title: "Components"
 <div align="center"><H1>Components</H1></div>
 
 <div align="center"><H2><b>Structural</b></H2>
+  
+<details>
+  <summary>Components List</summary>
+  <ul>
+    <li> Structural</li>
+    <ul>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#MC">Motor Controller</a><li/>
+ <a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Brushless-Motor">Brushless Motor Controller</a>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Gearbox">Gearbox</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Camera-Mount">Camera Mount</a></li>
+    </ul>
+    <li> Power </li>
+  </ul>
+</details>
 
+<div id="MC"></div>
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
@@ -14,6 +29,7 @@ title: "Components"
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
 
+<div id="Brushless-Motor"></div>
 <p align="center">
   <img src="photos/NEO.png" />
 </p>
@@ -22,7 +38,7 @@ title: "Components"
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
 
-
+<div id="Gearbox"></div>
 <p align="center">
   <img src="photos/gearbox.png" />
 </p>
@@ -32,7 +48,7 @@ title: "Components"
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
 
-
+<div id= "Camera-Mount"></div>
 <p align="center">
   <img src="photos/turret.jpg" />
 </p>
