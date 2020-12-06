@@ -80,11 +80,13 @@ title: "Components"
 <div align= "center">
 <TABLE>
    <TR>
+     <b>
     <TD>Name</TD>
     <TD>Desciption</TD>
     <TD>Cost</TD> 
     <TD>Weight</TD>
     <TD>Power</TD>
+     </b>
   </TR>
   <TR>
     <TD>Roboteq 1040A</TD>
