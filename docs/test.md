@@ -10,3 +10,21 @@ title: Test Page
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
 
 </center>
+<!-- Changes made by Liam 12/5 -->
+<p align="center">
+  <img src="photos/NEO.png" />
+</p>
+
+|   Name  |  Description   | Cost | Weight|  Power  |
+|:-------:|:--------------:|:----:|:-----:|:-------:|
+|   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
+
+
+<p align="center">
+  <img src="photos/gearbox.png" />
+</p>
+
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
