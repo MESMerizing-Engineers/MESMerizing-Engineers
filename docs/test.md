@@ -1,6 +1,15 @@
 ---
 title: Test Page
 ---
+
+<details>
+  <summary>Components List</summary>
+ <a href="components.md#MC">Motor Controller</a></br>
+ <a href="components.md#Brushless-Motor">Brushless Motor Controller</a></br>
+ <a href="components.md#Gearbox">Gearbox</a></br>
+</details>
+
+<div id="MC"></div>
 <p align="center">
   <img src="photos/SparkMax.png" />
 </p>
@@ -11,6 +20,7 @@ title: Test Page
 
 
 <!-- Changes made by Liam 12/5 -->
+<div id="Brushless-Motor"></div>
 <p align="center">
   <img src="photos/NEO.png" />
 </p>
@@ -19,7 +29,7 @@ title: Test Page
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
 
-
+<div id="Gearbox"></div>
 <p align="center">
   <img src="photos/gearbox.png" />
 </p>
