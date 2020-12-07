@@ -395,7 +395,7 @@ title: "Components"
   <img src="photos/vrm.jpg" width= "400" height="400" />
 </p>
 
-<TABLE align="right">
+<TABLE align="center">
    <TR>
     <TD><b>Name</b></TD>
      <TD><b>Desciption</b></TD>
