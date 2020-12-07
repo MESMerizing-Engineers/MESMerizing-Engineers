@@ -32,6 +32,7 @@ title: "Components"
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Depth-Camera">Depth Camera</a></li>
   <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Tracking-Camera">Tracking Camera</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Encoder">Encoder</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Arducam">Inspection Camera</a></li>
     </ul>
   </ul>
 </details>
@@ -118,6 +119,16 @@ title: "Components"
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |   REV   |  Motor Encoder | 35.00 | 0.205 |0.1 watts |
+
+<div id= "Arducam"></div>
+<p align="center">
+  <img src="photos/arducam.jpg" width= "400" height="400"/>
+</p>
+
+|   Name  |  Description   | Cost  | Weight|  Power   |
+|:-------:|:--------------:|:-----:|:-----:|:--------:|
+|Sony Arducam|  Inspection Camera | 92.99 | 0.3 |0.48 watts|
+
 
 <div id= "Camera-Mount"></div>
 <p align="center">
