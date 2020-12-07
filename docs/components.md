@@ -125,29 +125,84 @@ title: "Components"
   <img src="photos/encoder.png" width= "400" height="400"/>
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD>REV</TD>
+    <TD>Motor Encoder</TD>
+    <TD>35.00</TD> 
+    <TD>0.205</TD>
+    <TD>0.1</TD>
+  </TR>
+  </TABLE>
+  </div>
+  <!--
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |   REV   |  Motor Encoder | 35.00 | 0.205 |0.1 watts |
-
+-->
 <div id= "Arducam"></div>
 <p align="center">
   <img src="photos/arducam.jpg" width= "400" height="400"/>
 </p>
-
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD>Sony Arducam</TD>
+    <TD>Inspection Camera</TD>
+    <TD>92.99</TD> 
+    <TD>0.3</TD>
+    <TD>0.48</TD>
+  </TR>
+  </TABLE>
+  </div>
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Sony Arducam|  Inspection Camera | 92.99 | 0.3 |0.48 watts|
-
+-->
 
 <div id= "Camera-Mount"></div>
 <p align="center">
   <img src="photos/turret.jpg" width= "400" height="400"/>
 </p>
-
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W}</b></TD>
+  </TR>
+  <TR>
+    <TD>Phantom X</TD>
+    <TD>Camera Mount</TD>
+    <TD>222.33</TD> 
+    <TD>0.5</TD>
+    <TD>6.24</TD>
+  </TR>
+  </TABLE>
+  </div>
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Phantom X|  Camera Mount  |222.33 |  0.5  |6.24 watts|
-
+-->
 
 
 <div align ="center"><H2><b>Power/Battery</b></H2></div>
@@ -162,8 +217,8 @@ title: "Components"
     <TD><b>Name</b></TD>
      <TD><b>Desciption</b></TD>
      <TD><b>Cost</b></TD> 
-     <TD><b>Weight</b></TD>
-     <TD><b>Power</b></TD>
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
   </TR>
   <TR>
     <TD>Roboteq 1040A</TD>
