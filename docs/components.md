@@ -179,7 +179,7 @@ title: "Components"
 <p align="center">
   <img src="photos/vrm.jpg" width= "400" height="400" />
 </p>
-<div align= "right">
+<div align= "center">
 <TABLE>
    <TR>
     <TD><b>Name</b></TD>
