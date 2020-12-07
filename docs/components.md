@@ -23,6 +23,7 @@ title: "Components"
     <li> Control </li>
     <ul>
     <!-- Put Control Components Here -->
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Jetson">On board Computer</a></li>
     </ul>
     <li> Sensors </li>
     <ul>
@@ -65,6 +66,17 @@ title: "Components"
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
+
+<div align ="center"><H2><b>Controls</b></H2></div>
+
+<div id="Jetson"></div>
+<p align="center">
+  <img src="photos/jetson.jpg" width= "400" height ="400" />
+</p>
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|NVIDIA   |On board computer|398.99|1.75lbs|10 watts |
 
 
 <div align ="center"><H2><b>Camera/Sensors</b></H2></div>
