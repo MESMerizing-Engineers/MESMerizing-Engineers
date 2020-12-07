@@ -28,6 +28,7 @@ title: "Components"
     <ul>
       <!-- Put Sensor Components Here -->
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Depth-Camera">Depth Camera</a></li>
+  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Tracking-Camera">Tracking Camera</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Encoder">Encoder</a></li>
     </ul>
   </ul>
@@ -66,6 +67,8 @@ title: "Components"
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
 
 
+<div align ="center"><H2><b>Camera/Sensors</b></H2></div>
+
 <div id= "Depth-Camera"></div>
 <p align="center">
   <img src="photos/depth_camera.jpg" width= "400" height="400"/>
@@ -74,6 +77,16 @@ title: "Components"
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Intel D435i|  Depth Camera  |199.00 | 0.159 |3.5 watts |
+
+
+<div id= "Tracking-Camera"></div>
+<p align="center">
+  <img src="photos/tracking_camera.png" width= "400" height="400"/>
+</p>
+
+|   Name  |  Description   | Cost  | Weight|  Power   |
+|:-------:|:--------------:|:-----:|:-----:|:--------:|
+|Intel RealSense T265|  Tracking Camera  |199.00 | 0.0485 |1.5 watts |
 
 <div id= "Encoder"></div>
 <p align="center">
@@ -92,6 +105,8 @@ title: "Components"
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Phantom X|  Camera Mount  |222.33 |  0.5  |6.24 watts|
+
+
 
 <div align ="center"><H2><b>Power/Battery</b></H2></div>
 
