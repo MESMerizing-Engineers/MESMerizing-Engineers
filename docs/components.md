@@ -347,7 +347,7 @@ title: "Components"
      <TD><b>Desciption</b></TD>
      <TD><b>Cost</b></TD> 
      <TD><b>Weight[lbs]</b></TD>
-     <TD><b>Power[W}</b></TD>
+     <TD><b>Power[W]</b></TD>
   </TR>
   <TR>
     <TD align="center">Phantom X</TD>
