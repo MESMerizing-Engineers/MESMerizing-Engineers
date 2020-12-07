@@ -23,6 +23,7 @@ title: "Components"
     <li> Control </li>
     <ul>
     <!-- Put Control Components Here -->
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#myRIO">Central Hardware Computer</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Jetson">On board Computer</a></li>
     </ul>
     <li> Sensors </li>
@@ -69,6 +70,15 @@ title: "Components"
 
 <div align ="center"><H2><b>Controls</b></H2></div>
 
+<div id="myRIO"></div>
+<p align="center">
+  <img src="photos/myrio.jpg" width="400" height ="400" />
+ </p>
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|NI myRIO |Controller      |1087.00|0.73lbs|1.2 watts|
+
 <div id="Jetson"></div>
 <p align="center">
   <img src="photos/jetson.jpg" width= "400" height ="400" />
@@ -76,7 +86,7 @@ title: "Components"
 
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
-|NVIDIA   |On board computer|398.99|1.75lbs|10 watts |
+|NVIDIA Jetson Xavier NX|On board computer|398.99|1.75lbs|10 watts |
 
 
 <div align ="center"><H2><b>Camera/Sensors</b></H2></div>
