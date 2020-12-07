@@ -18,6 +18,7 @@ title: "Components"
     <ul>
     <!-- Put Power Components Here -->
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#bms">Battery Managment System</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#vrm">Voltage Regulator Module</a></li>
     </ul>
     <li> Control </li>
     <ul>
@@ -95,6 +96,30 @@ title: "Components"
   </TR>
   </TABLE>
   </div>
+  
+<div id= "vrm"></div>
+<p align="center">
+  <img src="photos/vrm.jpg" width= "400" height="400" />
+</p>
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight</b></TD>
+     <TD><b>Power</b></TD>
+  </TR>
+  <TR>
+    <TD>AM 2857</TD>
+    <TD>Voltage Regulator Module</TD>
+    <TD></TD> 
+    <TD></TD>
+    <TD></TD>
+  </TR>
+  </TABLE>
+  </div>
+  
   <!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
