@@ -243,7 +243,7 @@ title: "Components"
      <TD><b>Weight</b></TD>
      <TD><b>Power</b></TD>
   </TR>
-  <TR>
+  <TR class="text-center-row">
     <TD>AM 2857</TD>
     <TD>Voltage Regulator Module</TD>
     <TD></TD> 
