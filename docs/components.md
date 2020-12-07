@@ -154,18 +154,18 @@ title: "Components"
 </p>
 <div align= "center">
 <TABLE>
-   <TR>
+   <TR class="text-center-row">
     <TD><b>Name</b></TD>
      <TD><b>Desciption</b></TD>
      <TD><b>Cost</b></TD> 
      <TD><b>Weight[lbs]</b></TD>
      <TD><b>Power[W]</b></TD>
   </TR>
-  <TR>
+  <TR class="text-center-row">
     <TD>Sony Arducam</TD>
     <TD>Inspection Camera</TD>
     <TD>92.99</TD> 
-    <TD>      0.3</TD>
+    <TD>0.3</TD>
     <TD>0.48</TD>
   </TR>
   </TABLE>
