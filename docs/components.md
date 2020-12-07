@@ -394,8 +394,8 @@ title: "Components"
 <p align="center">
   <img src="photos/vrm.jpg" width= "400" height="400" />
 </p>
-<div align= "center">
-<TABLE align="center">
+
+<TABLE align="right">
    <TR>
     <TD><b>Name</b></TD>
      <TD><b>Desciption</b></TD>
@@ -411,7 +411,6 @@ title: "Components"
     <TD align="center">-</TD>
   </TR>
   </TABLE>
-  </div>
   
   <!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
