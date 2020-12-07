@@ -165,7 +165,7 @@ title: "Components"
     <TD>Sony Arducam</TD>
     <TD>Inspection Camera</TD>
     <TD>92.99</TD> 
-    <TD>  0.3</TD>
+    <TD>      0.3</TD>
     <TD>0.48</TD>
   </TR>
   </TABLE>
