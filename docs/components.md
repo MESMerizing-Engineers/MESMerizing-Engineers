@@ -68,7 +68,7 @@ title: "Components"
 
 <div id= "Depth-Camera"></div>
 <p align="center">
-  <img src="photos/depth-camera.png" width= "400" height="400"/>
+  <img src="photos/depth_camera.jpg" width= "400" height="400"/>
 </p>
 
 |   Name  |  Description   | Cost  | Weight|  Power   |
