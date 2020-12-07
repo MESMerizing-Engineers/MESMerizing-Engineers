@@ -54,7 +54,7 @@ title: "Components"
 
 <div id="Gearbox"></div>
 <p align="center">
-  <img src="photos/gearbox.png" />
+  <img src="photos/gearbox.png" width= "400" height ="400" />
 </p>
 
 
