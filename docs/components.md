@@ -36,7 +36,7 @@ title: "Components"
 
 <div id="MC"></div>
 <p align="center">
-  <img src="photos/SparkMax.png" />
+  <img src="photos/SparkMax.png" width= "400" height ="400"/>
 </p>
 
 |   Name  |  Description   | Cost | Weight|  Power  |
@@ -45,7 +45,7 @@ title: "Components"
 
 <div id="Brushless-Motor"></div>
 <p align="center">
-  <img src="photos/NEO.png" />
+  <img src="photos/NEO.png" width= "400" height ="400"/>
 </p>
 
 |   Name  |  Description   | Cost | Weight|  Power  |
@@ -75,7 +75,7 @@ title: "Components"
 
 <div id= "bms"></div>
 <p align="center">
-  <img src="photos/bms.jpg" />
+  <img src="photos/bms.jpg"width= "400" height ="400" />
 </p>
 <div align= "center">
 <TABLE>
