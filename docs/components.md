@@ -193,7 +193,7 @@ title: "Components"
     <TD>Phantom X</TD>
     <TD>Camera Mount</TD>
     <TD>222.33</TD> 
-    <TD><div align="center"0.5</div></TD>
+    <TD>0.5</TD>
     <TD>6.24</TD>
   </TR>
   </TABLE>
