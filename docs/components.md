@@ -25,6 +25,7 @@ title: "Components"
     <!-- Put Control Components Here -->
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#myRIO">Central Hardware Computer</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Jetson">On board Computer</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#router">Router</a></li>
     </ul>
     <li> Sensors </li>
     <ul>
@@ -89,6 +90,14 @@ title: "Components"
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |NVIDIA Jetson Xavier NX|On board computer|398.99|1.75lbs|10 watts |
 
+<div id="Router"></div>
+<p align="center">
+  <img src="photos/router.jpg" width= "400" height ="400" />
+</p>
+
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|TP-Link AC4000|Router     |178.99 |3.59 lbs|        |
 
 <div align ="center"><H2><b>Camera/Sensors</b></H2></div>
 
