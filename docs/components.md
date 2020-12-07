@@ -92,7 +92,7 @@ title: "Components"
     <TD>Battery Managment System</TD>
     <TD>395.74</TD> 
     <TD>0.558</TD>
-    <TD>watts</TD>
+    <TD></TD>
   </TR>
   </TABLE>
   </div>
