@@ -27,6 +27,7 @@ title: "Components"
     <li> Sensors </li>
     <ul>
       <!-- Put Sensor Components Here -->
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#vrm">Encoder</a></li>
     </ul>
   </ul>
 </details>
