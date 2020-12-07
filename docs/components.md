@@ -47,40 +47,119 @@ title: "Components"
   <img src="photos/SparkMax.png" width= "400" height ="400"/>
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">Spark Max</TD>
+    <TD align="center">Motor Controller</TD>
+    <TD align="center">166.39</TD> 
+    <TD align="center">0.5</TD>
+    <TD align="center">2.4</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
-
+-->
 <div id="Brushless-Motor"></div>
 <p align="center">
   <img src="photos/NEO.png" width= "400" height ="400"/>
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">NEO</TD>
+    <TD align="center">Brushless Motor</TD>
+    <TD align="center">93.07</TD> 
+    <TD align="center">1.9</TD>
+    <TD align="center">Variable</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
 |   Name  |  Description   | Cost | Weight|  Power  |
 |:-------:|:--------------:|:----:|:-----:|:-------:|
 |   NEO   |Brushless Motor |93.07 |1.9 lbs|Variable |
-
+-->
 <div id="Gearbox"></div>
 <p align="center">
   <img src="photos/gearbox.png" width= "400" height ="400" />
 </p>
 
-
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">CIM Sport</TD>
+    <TD align="center">Gearbox</TD>
+    <TD align="center">192.00</TD> 
+    <TD align="center">3.14</TD>
+    <TD align="center">-</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
-
+-->
 <div align ="center"><H2><b>Controls</b></H2></div>
 
 <div id="myRIO"></div>
 <p align="center">
   <img src="photos/myrio.jpg" width="400" height ="400" />
  </p>
-
+ 
+ <div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">NI myRIO</TD>
+    <TD align="center">Controller</TD>
+    <TD align="center">1087.00</TD> 
+    <TD align="center">0.73</TD>
+    <TD align="center">1.2</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |NI myRIO |Controller      |1087.00|0.73lbs|1.2 watts|
-
+-->
 <div id="Jetson"></div>
 <p align="center">
   <img src="photos/jetson.jpg" width= "400" height ="400" />
