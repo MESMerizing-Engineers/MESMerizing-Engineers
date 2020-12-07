@@ -86,19 +86,59 @@ title: "Components"
   <img src="photos/jetson.jpg" width= "400" height ="400" />
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">NVIDIA Jetson Xavier NX</TD>
+    <TD align="center">On Board Computer</TD>
+    <TD align="center">389.99</TD> 
+    <TD align="center">1.75</TD>
+    <TD align="center">10</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |NVIDIA Jetson Xavier NX|On board computer|398.99|1.75lbs|10 watts |
+..>
 
 <div id="Router"></div>
 <p align="center">
   <img src="photos/router.jpg" width= "400" height ="400" />
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">TP-Link AC4000</TD>
+    <TD align="center">Router</TD>
+    <TD align="center">178.99</TD> 
+    <TD align="center">3.59</TD>
+    <TD align="center">-</TD>
+  </TR>
+  </TABLE>
+  </div>
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power  |
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |TP-Link AC4000|Router     |178.99 |3.59 lbs|        |
-
+-->
 <div align ="center"><H2><b>Camera/Sensors</b></H2></div>
 
 <div id= "Depth-Camera"></div>
@@ -106,19 +146,60 @@ title: "Components"
   <img src="photos/depth_camera.jpg" width= "400" height="400"/>
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">Intel D435i</TD>
+    <TD align="center">Depth Camera</TD>
+    <TD align="center">199.00</TD> 
+    <TD align="center">0.159</TD>
+    <TD align="center">3.5</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Intel D435i|  Depth Camera  |199.00 | 0.159 |3.5 watts |
-
+-->
 
 <div id= "Tracking-Camera"></div>
 <p align="center">
   <img src="photos/tracking_camera.png" width= "400" height="400"/>
 </p>
 
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">Intel RealSense T265</TD>
+    <TD align="center">Tracking Camera</TD>
+    <TD align="center">199.00</TD> 
+    <TD align="center">0.0485</TD>
+    <TD align="center">1.5</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+  <!--
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Intel RealSense T265|  Tracking Camera  |199.00 | 0.0485 |1.5 watts |
+-->
 
 <div id= "Encoder"></div>
 <p align="center">
@@ -135,11 +216,11 @@ title: "Components"
      <TD><b>Power[W]</b></TD>
   </TR>
   <TR>
-    <TD>REV</TD>
-    <TD>Motor Encoder</TD>
-    <TD>35.00</TD> 
-    <TD>0.205</TD>
-    <TD>0.1</TD>
+    <TD align="center">REV</TD>
+    <TD align="center">Motor Encoder</TD>
+    <TD align="center">35.00</TD> 
+    <TD align="center">0.205</TD>
+    <TD align="center">0.1</TD>
   </TR>
   </TABLE>
   </div>
@@ -162,11 +243,11 @@ title: "Components"
      <TD><b>Power[W]</b></TD>
   </TR>
   <TR class="text-center-row">
-    <TD>Sony Arducam</TD>
-    <TD>Inspection Camera</TD>
-    <TD>92.99</TD> 
-    <TD>0.3</TD>
-    <TD>0.48</TD>
+    <TD align="center">Sony Arducam</TD>
+    <TD align="center">Inspection Camera</TD>
+    <TD align="center">92.99</TD> 
+    <TD align="center">0.3</TD>
+    <TD align="center">0.48</TD>
   </TR>
   </TABLE>
   </div>
@@ -221,11 +302,11 @@ title: "Components"
      <TD><b>Power[W]</b></TD>
   </TR>
   <TR>
-    <TD>Roboteq 1040A</TD>
-    <TD>Battery Managment System</TD>
-    <TD>395.74</TD> 
-    <TD>0.558</TD>
-    <TD></TD>
+    <TD align="center">Roboteq 1040A</TD>
+    <TD align="center">Battery Managment System</TD>
+    <TD align="center">395.74</TD> 
+    <TD align="center">0.558</TD>
+    <TD align="center">6.84</TD>
   </TR>
   </TABLE>
   </div>
