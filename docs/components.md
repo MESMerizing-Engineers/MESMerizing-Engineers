@@ -63,6 +63,16 @@ title: "Components"
 |:-------:|:--------------:|:-----:|:-----:|:-------:|
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
 
+
+<div id= "Encoder"></div>
+<p align="center">
+  <img src="photos/encoder.png" width= "400" height="400"/>
+</p>
+
+|   Name  |  Description   | Cost  | Weight|  Power   |
+|:-------:|:--------------:|:-----:|:-----:|:--------:|
+|   REV   |  Motor Encoder | 35.00 | 0.205 |          |
+
 <div id= "Camera-Mount"></div>
 <p align="center">
   <img src="photos/turret.jpg" width= "400" height="400"/>
