@@ -190,11 +190,11 @@ title: "Components"
      <TD><b>Power[W}</b></TD>
   </TR>
   <TR>
-    <TD>Phantom X</TD>
-    <TD>Camera Mount</TD>
-    <TD>222.33</TD> 
+    <TD align="center">Phantom X</TD>
+    <TD align="center">Camera Mount</TD>
+    <TD align="center">222.33</TD> 
     <TD align="center">0.5</TD>
-    <TD>6.24</TD>
+    <TD align="center">6.24</TD>
   </TR>
   </TABLE>
   </div>
@@ -244,11 +244,11 @@ title: "Components"
      <TD><b>Power</b></TD>
   </TR>
   <TR>
-    <TD>AM 2857</TD>
-    <TD>Voltage Regulator Module</TD>
-    <TD></TD> 
-    <TD></TD>
-    <TD></TD>
+    <TD align="center">AM 2857</TD>
+    <TD align="center">Voltage Regulator Module</TD>
+    <TD align="center">102.81</TD> 
+    <TD align="center">0.113</TD>
+    <TD align="center">-</TD>
   </TR>
   </TABLE>
   </div>
