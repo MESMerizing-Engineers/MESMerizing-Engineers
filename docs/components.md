@@ -189,11 +189,11 @@ title: "Components"
      <TD><b>Weight[lbs]</b></TD>
      <TD><b>Power[W}</b></TD>
   </TR>
-  <TR class="text-center-row">
+  <TR>
     <TD>Phantom X</TD>
     <TD>Camera Mount</TD>
     <TD>222.33</TD> 
-    <TD>0.5</TD>
+    <TD align="center">0.5</TD>
     <TD>6.24</TD>
   </TR>
   </TABLE>
