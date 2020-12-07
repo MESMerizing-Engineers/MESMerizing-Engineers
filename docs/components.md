@@ -27,7 +27,8 @@ title: "Components"
     <li> Sensors </li>
     <ul>
       <!-- Put Sensor Components Here -->
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#vrm">Encoder</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Depth-Camera">Depth Camera</a></li>
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Encoder">Encoder</a></li>
     </ul>
   </ul>
 </details>
@@ -65,6 +66,15 @@ title: "Components"
 |CIM Sport|    Gear Box    |192.00 |3.14lbs|         |
 
 
+<div id= "Depth-Camera"></div>
+<p align="center">
+  <img src="photos/depth-camera.png" width= "400" height="400"/>
+</p>
+
+|   Name  |  Description   | Cost  | Weight|  Power   |
+|:-------:|:--------------:|:-----:|:-----:|:--------:|
+|Intel D435i|  Depth Camera  |199.00 | 0.159 |3.5 watts |
+
 <div id= "Encoder"></div>
 <p align="center">
   <img src="photos/encoder.png" width= "400" height="400"/>
@@ -72,7 +82,7 @@ title: "Components"
 
 |   Name  |  Description   | Cost  | Weight|  Power   |
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
-|   REV   |  Motor Encoder | 35.00 | 0.205 |          |
+|   REV   |  Motor Encoder | 35.00 | 0.205 |0.1 watts |
 
 <div id= "Camera-Mount"></div>
 <p align="center">
