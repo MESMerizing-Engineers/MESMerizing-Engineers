@@ -64,7 +64,7 @@ title: "Components"
 
 <div id= "Camera-Mount"></div>
 <p align="center">
-  <img src="photos/turret.jpg" width= "400" height ="400"/>
+  <img src="photos/turret.jpg" width= "400" height="400"/>
 </p>
 
 |   Name  |  Description   | Cost  | Weight|  Power  |
@@ -75,7 +75,7 @@ title: "Components"
 
 <div id= "bms"></div>
 <p align="center">
-  <img src="photos/bms.jpg"width= "400" height ="400" />
+  <img src="photos/bms.jpg" width= "400" height="400" />
 </p>
 <div align= "center">
 <TABLE>
