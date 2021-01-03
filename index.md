@@ -7,14 +7,11 @@ Inspection Robot
 ## Home Page Content
 
 ## Turret is ready to be added on to the chassis.
-
-
-
-## We have Mapping! - Alex Yu 24 DEC 2020
 <p align="center">
   <img src="docs/photos/turret_built.png" />
 </p>
 
+## We have Mapping! - Alex Yu 24 DEC 2020
 With the holidays just around the corner, we are all enjoying some much needed R&R. That said, it's never a bad time to post an update!
 <p align="center">
   <img src="docs/photos/Occupancy Map of My House.png" />
