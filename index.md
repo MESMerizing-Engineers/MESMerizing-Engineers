@@ -8,8 +8,13 @@ Inspection Robot
 
 ## Turret is ready to be added on to the chassis.
 <p align="center">
-  <img src="docs/photos/turret_built.png" />
+  <img src="docs/photos/turret_built.png" width= "400" height ="400"/>
 </p>
+
+Verified the turret was configured corrrectly
+  Video shows the turret running the PXTurretTest
+  video: https://drive.google.com/file/d/117dKVGQloSPyNrAAyHhqdyB4uHXf9qXf/view?usp=sharing
+
 
 ## We have Mapping! - Alex Yu 24 DEC 2020
 With the holidays just around the corner, we are all enjoying some much needed R&R. That said, it's never a bad time to post an update!
