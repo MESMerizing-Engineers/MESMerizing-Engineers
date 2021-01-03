@@ -6,6 +6,10 @@ Inspection Robot
 
 ## Home Page Content
 
+## Turret is ready to be added on to the chassis.
+
+
+
 ## We have Mapping! - Alex Yu 24 DEC 2020
 
 
