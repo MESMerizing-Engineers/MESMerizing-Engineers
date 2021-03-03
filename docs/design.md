@@ -1,5 +1,5 @@
 
-<div align="left"><H1>See how our design has evolved...</H2></div>
+<div align="left"><H2>See how our design has evolved...</H2></div>
 
 ---
 Initial Design
