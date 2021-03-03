@@ -16,6 +16,9 @@
 
 - title: Documentation
   url: /docs/documentation
+  
+- title: Design
+  url: /docs/design
 
 - title: Test
   url: /docs/test
