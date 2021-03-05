@@ -2,13 +2,11 @@
 ___
 # Hawkeye
 
-<p align="center">
+<p align="left">
   <img src="docs/photos/CREO_right_2.JPG"/>
-  
-  Autonomous Inspection Robot
 </p>
-
-
+<div align="center"><H2> Autonomous Inspection Robot</H2>
+</div>
 
 ## Remote Control Functionality Test - Alex Yu 1 MAR 2021
 
