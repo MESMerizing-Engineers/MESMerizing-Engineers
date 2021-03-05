@@ -1,6 +1,6 @@
 # Site navigation links
 - title: Home
-  url: /docs/documentation
+  url: /docs/about
 
 - title: About
   url: /docs/about
@@ -20,6 +20,6 @@
 - title: Design
   url: /docs/design
   
- - title: Test
+- title: Test
   url: /docs/test
 
