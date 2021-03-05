@@ -33,7 +33,7 @@ LCD can cycle between different screens
 
 ## Redesigned component configuration - Uyen, Nick, Liam 19 FEB 2021
 <p align="center">
-  <img src="docs/photos/chassis_redesign.JPG" width= "400" height ="400"/>
+  <img src="docs/photos/chassis_redesign.JPG" />
 </p>
 
 Update from previous week, the inner workings have been moved to improve...
