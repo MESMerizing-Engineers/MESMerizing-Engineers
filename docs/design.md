@@ -1,10 +1,44 @@
 
-<div align="left"><H2>See how our design has evolved...</H2></div>
+<div align="left"><H2>See how the design has evolved...</H2></div>
+
+---
+Design 2: First Prototype
+---
+The chassis size increased to fit all components. 
+
+<p align="left">
+  <img src="photos/CREO_right_2.JPG" />
+</p>
+
+<div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Description</b></TD>
+     <TD><b>Length</b></TD> 
+     <TD><b>Height</b></TD>
+     <TD><b>Width</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">Design 2</TD>
+    <TD align="center">Protoype</TD>
+    <TD align="center">26.5"</TD> 
+    <TD align="center">9"</TD>
+    <TD align="center">7"</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+
+
+
+
+
 
 ---
 Initial Design
 ---
-Models were sketched in CREO.
+The dimensions of the initial design came from our first choice of premade chassis. 
 
 <p align="left">
   <img src="photos/CREO_right.jpg" width= "300" height ="300"/>
