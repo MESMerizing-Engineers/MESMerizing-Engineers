@@ -27,6 +27,7 @@ LCD can cycle between different screens
   - faults
   - storage
 
+
 <p align="center">
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
 </p>
