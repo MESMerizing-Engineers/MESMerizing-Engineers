@@ -2,7 +2,7 @@
 ___
 # Hawkeye
 
-<p align="left">
+<p align="center">
   <img src="docs/photos/CREO_right_2.JPG"/>
 </p>
 <div align="center"><H2> Autonomous Inspection Robot</H2>
