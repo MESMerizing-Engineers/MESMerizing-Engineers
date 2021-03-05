@@ -7,7 +7,7 @@ Design 2: First Prototype
 The chassis size increased to fit all components. 
 
 <p align="center">
-  <img src="photos/CREO_right_2.JPG" />
+  <img src="photos/CREO_right_1.jpg" />
 </p>
 
 <div align= "center">
