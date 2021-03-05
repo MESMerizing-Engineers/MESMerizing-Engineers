@@ -1,20 +1,18 @@
+## Home Page Content
 ___
-
 # Hawkeye
 
 <p align="center">
   <img src="docs/photos/CREO_right_2.JPG"/>
+  
+  Autonomous Inspection Robot
 </p>
 
 
-Autonomous Inspection Robot
-
-## Home Page Content
 
 ## Remote Control Functionality Test - Alex Yu 1 MAR 2021
 
 [![Remote Control Functionality Test ](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers/blob/gh-pages/docs/photos/youtube_remote.jpg)](https://youtu.be/hM1WgEU2hRA "Remote Control Functionality Test")
-
 
 
 ## LCD Display for strain gauge readings - Liam Moore 26 FEB 2021
@@ -28,7 +26,6 @@ LCD can cycle between different screens
   - operation status
   - faults
   - storage
-
 
 <p align="center">
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
