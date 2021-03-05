@@ -22,14 +22,12 @@ The chassis size increased to fit all components.
   <TR>
     <TD align="center">Design 2</TD>
     <TD align="center">Protoype</TD>
-    <TD align="center">26.5"</TD> 
-    <TD align="center">9"</TD>
-    <TD align="center">7"</TD>
+    <TD align="center"> 24.63"</TD> 
+    <TD align="center">9.75"</TD>
+    <TD align="center">5.04"</TD>
   </TR>
   </TABLE>
   </div>
-  
-
 
 
 ---
@@ -57,10 +55,9 @@ The dimensions of the initial design came from our first choice of premade chass
   <TR>
     <TD align="center">Design 1</TD>
     <TD align="center">Initial model</TD>
-    <TD align="center">11"</TD> 
-    <TD align="center">10"</TD>
-    <TD align="center">5"</TD>
+    <TD align="center">12.5"</TD> 
+    <TD align="center">11"</TD>
+    <TD align="center">4"</TD>
   </TR>
   </TABLE>
   </div>
-  
