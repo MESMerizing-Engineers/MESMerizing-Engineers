@@ -32,9 +32,6 @@ The chassis size increased to fit all components.
 
 
 
-
-
-
 ---
 Initial Design
 ---
