@@ -6,11 +6,12 @@ Design 2: First Prototype
 ---
 The chassis size increased to fit all components. 
 
-<p align="left">
-  <img src="photos/CREO_right_1.jpg" />
-<div align= "center">
-</p>
+<div align="center">
+  
 <p align="center">
+  <img src="photos/CREO_right_1.jpg"/>
+</p>
+
 <TABLE>
    <TR>
     <TD><b>Name</b></TD>
@@ -26,9 +27,8 @@ The chassis size increased to fit all components.
     <TD align="center">9.75"</TD>
     <TD align="center">5.04"</TD>
   </TR>
-  </TABLE>
-  </div>
-</p>
+  </TABLE></div>
+
 
 ---
 Initial Design
