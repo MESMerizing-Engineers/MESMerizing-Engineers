@@ -4,14 +4,16 @@
 ---
 Initial Design
 ---
+Models were sketched in CREO.
 
 <p align="left">
-  <img src="photos/CREO_right.jpg" />
-  <img src="photos/CREO_chassisblowup.png" />
-   <img src="photos/CREO_top.jpg" />
+  <img src="photos/CREO_right.jpg" width= "300" height ="300"/>
+  <img src="photos/CREO_chassisblowup.png" width= "300" height ="300"/>
+   <img src="photos/CREO_top.jpg" width= "300" height ="300"/>
 </p>
 
 
+                                                                                          
 <div align= "center">
 <TABLE>
    <TR>
@@ -23,7 +25,7 @@ Initial Design
   </TR>
   <TR>
     <TD align="center">Design 1</TD>
-    <TD align="center">Right View in CREO</TD>
+    <TD align="center">Initial model</TD>
     <TD align="center">11"</TD> 
     <TD align="center">10"</TD>
     <TD align="center">5"</TD>
@@ -31,7 +33,3 @@ Initial Design
   </TABLE>
   </div>
   
-<!--
-|   Name  |  Description   | Cost | Weight|  Power  |
-|:-------:|:--------------:|:----:|:-----:|:-------:|
-|Spark Max|Motor Controller|166.39|0.5 lbs|2.4 watts|
