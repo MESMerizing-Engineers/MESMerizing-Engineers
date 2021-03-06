@@ -1,11 +1,11 @@
-#define MOTORL 9//PUT PWM PIN NUMBER HERE 
-#define MOTORR 10//PUT PWM PIN NUMBER HERE
+#define MOTORL 9//Must be pin 9 or 10 on the uno
+#define MOTORR 10//Must be pin 9 or 10 on the uno
 
-double prevSpeed = 0.0;
+double prevSpeed = 0.0; 
 double accelLimit = 0.01; // MAX allowed change in motor speed  
-int lowerBound = 2000;
-int upperBound = 4000;
-int resolution;
+unsigned int lowerBound = 2000;
+unsigned int upperBound = 4000;
+unsigned long resolution;
 
 void pwmInit16(int freq){ // hz 
   resolution = (F_CPU/ (freq*8)) - 1; // Calculate and set the frequency
@@ -18,7 +18,7 @@ void pwmInit16(int freq){ // hz
   OCR1B = resolution/2;
 }
 
-void pwmWrite16(unsigned int pin, int duty){
+void pwmWrite16(unsigned int pin, unsigned long duty){
   switch(pin){
     case MOTORL: OCR1A = duty; break;
     case MOTORR: OCR1B = duty; break;
@@ -33,14 +33,15 @@ void setSpeed(unsigned int pin, double newSpeed){
   }else if(prevSpeed - newSpeed >= accelLimit){
     newSpeed = prevSpeed - accelLimit;
   }
-  newSpeed = constrain(newSpeed, -1, 1);
-  int dutyCycle = map(newSpeed, -1.0, 1.0, 2000, 4000);
+  newSpeed *=1000;
+  newSpeed = constrain(newSpeed, -1000, -1000);
+  unsigned long dutyCycle = map(newSpeed, -1000,1000, 2000, 4000);
   pwmWrite16(pin, dutyCycle); 
   prevSpeed = newSpeed;
 }
   
 void setup(){
- pinMode(MOTORL,OUTPUT);
+ pinMode(MOTORL,OUTPUT); 
  pinMode(MOTORR,OUTPUT);
  pwmInit16(50);
 }
