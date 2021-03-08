@@ -8,6 +8,13 @@ ___
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
 
+
+## PWM is now working smoothly - Alex | Nick 7 MAR 2021
+
+- Alex updated the arduino code for changing resolution.
+- Nick tested full forward and full reverse with the new code and implemented interrupt
+pins which resulted smooth transitions.
+
 ## Remote Control Functionality Test - Alex Yu 1 MAR 2021
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hM1WgEU2hRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
