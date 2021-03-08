@@ -10,6 +10,8 @@ ___
 
 ## Remote Control Functionality Test - Alex Yu 1 MAR 2021
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hM1WgEU2hRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![Remote Control Functionality Test ](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers/blob/gh-pages/docs/photos/youtube_remote.jpg)](https://youtu.be/hM1WgEU2hRA "Remote Control Functionality Test")
 
 
