@@ -10,7 +10,9 @@ ___
 
 
 ## PWM is now working smoothly - Alex | Nick 7 MAR 2021
-
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qoUVXheuOjs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 - Alex updated the arduino code for changing resolution.
 - Nick tested full forward and full reverse with the new code and implemented interrupt
 pins which resulted smooth transitions.
@@ -46,8 +48,11 @@ Update from previous week, the inner workings have been moved to improve...
 
 
 ## Turret is ready to be added on to the chassis - Jen Dacanay 3 JAN 2021
+
 <p align="center">
   <img src="docs/photos/turret_built.png" width= "400" height ="400"/>
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeZ6y1lZpQQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Verified the turret was configured corrrectly
