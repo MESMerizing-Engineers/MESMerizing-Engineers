@@ -12,8 +12,6 @@ ___
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hM1WgEU2hRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Remote Control Functionality Test ](https://github.com/MESMerizing-Engineers/MESMerizing-Engineers/blob/gh-pages/docs/photos/youtube_remote.jpg)](https://youtu.be/hM1WgEU2hRA "Remote Control Functionality Test")
-
 
 ## LCD Display for strain gauge readings - Liam Moore 26 FEB 2021
 To comply with ANSI safety standards, this will help monitor the status of the battery.
