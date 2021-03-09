@@ -1,5 +1,5 @@
-#define encoderLA 22
-#define encoderLB 23
+#define encoderLA 6
+#define encoderLB 7
 #define encoderRA 20 
 #define encoderRB 21
 #define MOTORL 14
@@ -60,8 +60,6 @@ void setup(){
 void loop(){
   recvWithEndMarker();
   parseMessage();
-  AnalogWrite(MOTORL, );
-  AnalogWrite(MOTORR, );
   if(countL!= Encoders.left || countR != Encoders.right){
     Serial.print("Left Count: ");
     Serial.print(Encoders.left);
