@@ -1,5 +1,5 @@
-#define encoderLA 22
-#define encoderLB 23
+#define encoderLA 6
+#define encoderLB 7
 #define encoderRA 20 
 #define encoderRB 21
 #include <BioloidController.h>
