@@ -2,73 +2,39 @@
 #define encoderLB 23
 #define encoderRA 20 
 #define encoderRB 21
-#define MOTORL 14
-#define MOTORR 15
 #include <BioloidController.h>
 #include <EncodersAB.h>
 
 
 BioloidController bioloid = BioloidController(1000000);
-int countL = 0;
-int countR = 0;
-int speedL = 0; //Currently in terms of PWM width 
-int speedR = 0; //Change to velocity measurements later
-const byte numChars = 32;
-char receivedChars[numChars] =" ";  
-boolean newData = false;
+double encResolution = 4096.0;
+double speedL = 0.0; //Currently in terms of revolutions per second
+double speedR = 0.0; //Change to velocity measurements later
+unsigned long dt = 1; // Milli
+unsigned long curTime = 0;
+unsigned long prevTime = 0;
+double scaler = 100000.0 // speed changes can be too small to print
+                         // increase this to display 
 
-void parseMessage(){
-  if(newData){
-    char * strtokIndx;
-    strtokIndx = strtok(receivedChars, ",");
-    speedL = atoi(strtokIndx);
-    strtokIndx = strtok(NULL, ","); 
-    speedR = atoi(strokIndx);
-    newData = false;
-  }
+
+void printSpeed(){
+  Serial.print("  Right Speed: ");
+  Serial.print(speedR);
+  Serial.print("  Left Speed: ");
+  Serial.println(speedL);
 }
-
-void recvWithEndMarker() {
- static byte ndx = 0;
- char endMarker = '\n';
- char rc;
-while (Serial.available() > 0 && newData == false) {
-  rc = Serial.read();
-  if (rc != endMarker) {
-    receivedChars[ndx] = rc;
-    ndx++;
-    if (ndx >= numChars) {
-      ndx = numChars - 1;
-    }
-  }
-  else {
-    receivedChars[ndx] = '\0'; // terminate the string
-    ndx = 0;
-    newData = true;
-  }
-}
-
-
 
 void setup(){
     Serial.begin(38400);
     Encoders.Begin();
-    pinMode(MOTORL, OUTPUT)
-    pinMode(MOTORR, OUTPUT)
 }
 
 void loop(){
-  recvWithEndMarker();
-  parseMessage();
-  AnalogWrite(MOTORL, );
-  AnalogWrite(MOTORR, );
-  if(countL!= Encoders.left || countR != Encoders.right){
-    Serial.print("Left Count: ");
-    Serial.print(Encoders.left);
-    Serial.print("  Right Count: ");
-    Serial.println(Encoders.right);
-    countL = Encoders.left;
-    countR = Encoders.right;
-  }
-  delay(1);
+  curTime = millis();
+  dt = curTime - prevTime;
+  speedR = ((double)Encoders.right/encResolution)/(dt/1000)*scaler;
+  speedL = ((double)Encoders.left/encResolution)/(dt/1000)*scaler;
+  Encoders.Reset();
+  printSpeed();
+  delay(50);
 }
