@@ -83,13 +83,13 @@ void parseMessage(){
   if(newData){
     char * strtokIndx;
     strtokIndx = strtok(receivedChars, ",");
-    joyPanVal = atoi(strtokIndx)*1023;
+    joyPanVal = atof(strtokIndx)*1023;
     strtokIndx = strtok(NULL, ","); 
-    joyTiltVal = atoi(strtokIndx)*1023;
+    joyTiltVal = atof(strtokIndx)*1023;
     strtokIndx = strtok(NULL, ","); 
-    speedForward = atoi(strtokIndx);
+    speedForward = atof(strtokIndx);
     strtokIndx = strtok(NULL, ","); 
-    speedRotate = atoi(strtokIndx);
+    speedRotate = atof(strtokIndx);
     newData = false;
   }
 }
