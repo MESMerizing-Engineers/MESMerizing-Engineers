@@ -6,11 +6,9 @@
 // Motor Pins
 #define MOTORL 14
 #define MOTORR 13
-//#define F_CPU 1600000UL
 //define pan and tilt servo IDs
 #define PAN    1
 #define TILT   2
-
 // the F2 'C' bracket attached to the tilt servo creates a physical limitation to how far
 // we can move the tilt servo. This software limit will ensure that we don't jam the bracket into the servo.
 #define TILT_MAX 768 
@@ -46,24 +44,38 @@ int tilt;   //current position of the tilt servo
 
 int joyPanVal = 0;//current value of the pan joystick (analog 0) 0-1023
 int joyTiltVal = 0;//current value of the tilt joystick (analog 1) 0-1023
-int joyTiltMapped =0;//tilt joystick value, mapped  to -speed - speed
-int joyPanMapped =0;//pan joystick value, mapped to -speed - speed
+int joyTiltMapped = 0;//tilt joystick value, mapped  to -speedjoy- speed
+int joyPanMapped = 0;//pan joystick value, mapped to -speedjoy to speedjoy 
+int speedjoy= 10;//increase this to increase the speedjoyof the movement
 
-int speed = 10;//increase this to increase the speed of the movement
-
-int countL = 0;
-int countR = 0;
+// Variables for Motor Control
 double speedForward = 0.0;
 double speedRotate = 0.0; 
-int speedL = 0; //Currently in terms of PWM width 
-int speedR = 0; //Change to velocity measurements later
+double setSpeedL = 0.0;
+double setSpeedR = 0.0;
+double prevSpeedL = 0.0; 
+double prevSpeedR = 0.0; 
+double accelLimit = 0.01; // MAX allowed change in motor speed  
+unsigned int lowerBound = 2000;
+unsigned int upperBound = 4000;
+unsigned long resolution;
+int frequency = 50;
+
+// Used for Serial communication
 const byte numChars = 32;
 char receivedChars[numChars] =" ";  
 boolean newData = false;
-int resolution;
-double dutyL = 20000;
-double dutyR = 20000;
-int frequency = 50;
+
+// Variables for Wheel Encoder 
+double encResolution = 4096.0; // ticks in 1 revolution
+double encSpeedL = 0.0; //Currently in terms of revolutions per second
+double encSpeedR = 0.0; //Change to velocity measurements later
+unsigned long dt = 1; // Milliseconds
+unsigned long curTime = 0; 
+unsigned long prevTime = 0;
+double scaler = 100000.0 // speed changes can be too small to print
+                         // increase this to display 
+
 // Function Declartions
 
 // Extract Values from formatted message
@@ -105,37 +117,56 @@ void readJetson() {
 
 
 // Define Custom PWM modes on pins 14 and 13
-int pwm16Init(int freq){ // hz 
+void pwmInit16(int freq){ // hz 
   DDRD |= (1 << 5)|(1<<4); // OC1A and OC1B pins are outputs
-  resolution = (F_CPU/ (freq*64)) - 1; // Calculate and set the frequency
-  Serial.println(resolution);
+  resolution = (F_CPU/ (freq*8)) - 1; // Calculate and set the frequency
   // mode 14, clear OC1A on match and start timer
   TCCR1A = (1 << WGM11) | (1 << COM1A1) | (1 << COM1B1) ; //| (1<<COM1A0);
   TCCR1B = (1 << WGM13) | (1 << WGM12) | (1 << CS11); // prescale by 8
   TCCR1C = 0x00;
-  //int dc = ;
-  OCR1A = 3000; // 50% duty cycle
-  ICR1 = 0x9C3F;
-  //OCR1B = dc;
-  
+  ICR1 = resolution;
+  OCR1A = resolution/2; // 50% duty cycle
+  OCR1B = resolution/2;
 }
 
-void pwm16Write(int dutyL, int dutyR){
-    OCR1A = dutyL;
-    OCR1B = dutyR;
+void pwmWrite16(unsigned long dutyL, unsigned long dutyR){
+  OCR1A = dutyL;
+  OCR1B = dutyR; 
 }
+void setSpeed(double newSpeedL, double newSpeedR){
+  if(newSpeedL - prevSpeedL >= accelLimit){ 
+    newSpeedL = prevSpeedL + accelLimit;
+  }else if(prevSpeedL - newSpeedL >= accelLimit){
+    newSpeedL = prevSpeedL - accelLimit;
+  }
+  newSpeedL *= 1000;
+  newSpeedL = constrain(newSpeed, -1000, -1000);
 
-void printEncoderCounts(){
-  Serial.print("Left Count: ");
-  Serial.print(Encoders.left);
-  Serial.print("  Right Count: ");
-  Serial.println(Encoders.right);
+  if(newSpeedR - prevSpeedL >= accelLimit){ 
+    newSpeedR = prevSpeedR + accelLimit;
+  }else if(prevSpeedR - newSpeedR >= accelLimit){
+    newSpeedR = prevSpeedR - accelLimit;
+  }
+  newSpeedR *= 1000;
+  newSpeedR = constrain(newSpeed, -1000, -1000);
+
+  unsigned long dutyCycleL = map(newSpeedL, -1000,1000, 2000, 4000);
+  unsigned long dutyCycleR = map(newSpeedR, -1000,1000, 2000, 4000);
+  pwmWrite16(dutyCycleL,dutyCycleR); 
+  prevSpeedL = newSpeedL;
+  prevSpeedR = newSpeedR;
+}
+void printSpeed(){
+  Serial.print("  Right Speed: ");
+  Serial.print(encSpeedR);
+  Serial.print("  Left Speed: ");
+  Serial.println(encSpeedL);
 }
 void poseMount(){
   //deadzone for pan jotystick - only change the pan value if the joystick value is outside the deadband
   if(joyPanVal > DEADBANDHIGH || joyPanVal < DEADBANDLOW){
      //joyPanVal will hold a value between 0 and 1023 that correspods to the location of the joystick. The map() function will convert this value
-     //into a value between speed and -speed. This value can then be added to the current panValue to incrementley move ths servo 
+     //into a value between speedjoyand -speed. This value can then be added to the current panValue to incrementley move ths servo 
      joyPanMapped = map(joyPanVal, -1023, 1023, -speed, speed);
      pan = pan + joyPanMapped;
 
@@ -148,7 +179,7 @@ void poseMount(){
    //deadzone for tilt jotystick - only change the pan value if the joystick value is outside the deadband  
    if(joyTiltVal > DEADBANDHIGH || joyTiltVal < DEADBANDLOW){
      //joyTiltVal will hold a value between 0 and 1023 that correspods to the location of the joystick. The map() function will convert this value
-     //into a value between speed and -speed. This value can then be added to the current panValue to incrementley move ths servo 
+     //into a value between speedjoyand -speed. This value can then be added to the current panValue to incrementley move ths servo 
      joyTiltMapped = map(joyTiltVal, -1023, 1023, -speed, speed);
      tilt = tilt + joyTiltMapped;
           
@@ -189,20 +220,9 @@ void loop(){
   parseMessage();
   // Update the postion of the mount
   poseMount();
-  speedR = speedForward + speedRotate;
-  speedL = speedForward - speedRotate;
-  dutyL = (0.0015 + .005*speedL/2) * frequency*(resolution);
-  dutyR = (0.0015 + .005*speedR/2) * frequency*(resolution);
-  // Read the Encoder values
-  if(countL!= Encoders.left || countR != Encoders.right){
-    //printEncoderCounts();
-    countL = Encoders.left;
-    countR = Encoders.right;
-  }
-  Serial.print(dutyL);
-  Serial.println(resolution);
-  //TO DO: SET Motor controllers
-  //pwm16Write(dutyL,dutyR);
+  setSpeedR = speedForward + speedRotate;
+  setSpeedL = speedForward - speedRotate;
+  setSpeed(setSpeedL,setSpeedR);
   // TODO Implement PID Control
-  delay(20);
+  delay(50);
 }
