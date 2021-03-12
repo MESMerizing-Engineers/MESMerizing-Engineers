@@ -42,10 +42,32 @@ LCD can cycle between different screens
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
 </p>
 
-## Winter Quarter Week 8 Updates - 5 Mar 2021
+## Winter Quarter Week 9 Updates - 5 Mar 2021
 
 
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
+
+Software
+  - ROS script written for motor testing
+  -  Camera mount remote control
+  - Considering TI Launch pad for PWM implementation
+Electrical
+- LCD Display for strain gauge circuit added
+- Electrical bench test performed
+  - DCDC converter malfunction
+Hardware
+ - Emergency stop button added
+Mechanical:
+- Additions for chassis
+
+<p align="center">
+  <img src="docs/photos/prototype_2_component_assembly1.JPG"  /><br>
+  Figure 1: Interconnections between major components.<br><br>
+  <img src="docs/photos/prototype_2_component_assembly2.JPG"  /><br>
+  Figure 2: Bottom-level board layout.<br><br>
+  <img src="docs/photos/prototype_2_assembly4.jpg"  />
+  Figure 3: Assembled Prototype-1 Baseplate.<br>
+</p>
 
 
 ## Winter Quarter Week 7 Updates - 19 Feb 2021
