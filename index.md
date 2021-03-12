@@ -42,8 +42,36 @@ LCD can cycle between different screens
 <p align="center">
   <img src="docs/photos/chassis_redesign.JPG" />
 </p>
+Update from previous week, the components were rearranged.
 
-Update from previous week, the inner workings have been moved to improve...
+## Winter Quarter Week 1 Updates - 8 Jan 2021
+<p align="center">
+  <img src="docs/photos/3DP_fleur_camera_case.jpg"/><img src="docs/photos/3DP_inspection_camera_case.jpg"/>
+  <img src="docs/photos/CREO_left_1a.JPG"width= "450" height ="400"/>
+</p>
+
+Hardware
+  - Received second myRIO
+3D printed
+  -   Intel RealSense camera mount
+  -   Drive wheel adapters
+  -   Inspection camera case 
+  -   Fleur camera case
+Documentation
+  The following documents were being prepared for the Concept Design Review Presentation
+  - Safety Note
+    - Based on Designing and Fabricating Safe Electrical Equipment
+    - IPC/WHMA-A-620C  
+  - Software Stack
+CREO
+  Design was updated to add the following
+  - Wifi router
+  - Navigation cameras
+  - Inspection camera and mount
+  - Side guards for track protection
+
+D435i Mapping + Tracking Progress
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NDkw-YhQfXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Turret is ready to be added on to the chassis - Jen Dacanay 3 JAN 2021
 
