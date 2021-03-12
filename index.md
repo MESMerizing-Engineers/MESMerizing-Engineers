@@ -45,19 +45,24 @@ LCD can cycle between different screens
 ## Winter Quarter Week 4 Updates - 29 Jan 2021
 
 <p align="center">
-  <img src="docs/photos/CREO_3_right.JPG" width= "400" height ="400" /> 
-  <img src="docs/photos/FMEA_pg1.jpg" width= "400" height ="400" /> 
-  <img src="docs/photos/prototype_1_assembly.JPG" width= "400" height ="300" /> 
+  <img src="docs/photos/FMEA_pg1.jpg" /> 
 </p>
 
 Documentation
   Main focus this week was preparing for the Concept Design Review presentation
   - Failure Mode Effect Analysis (FMEA)
 Mechanical
-  Updates in CREO -- new color scheme!
-  
+  Updates in CREO -- new color scheme! 
+  <p align="center">
+  <img src="docs/photos/CREO_3_right.JPG" width= "300" height ="250" /> 
+  <img src="docs/photos/FMEA_pg1.jpg" /> 
+</p>
 Hardware
   -   Prototype assembled
+
+<p align="center">
+  <img src="docs/photos/prototype_1_assembly.JPG" width= "400" height ="300" /> 
+</p>
 
 ## Winter Quarter Week 3 Updates - 22 Jan 2021
 
