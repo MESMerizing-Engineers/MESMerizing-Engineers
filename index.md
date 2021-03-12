@@ -4,7 +4,7 @@ ___
 Follow our progress...
 
 <p align="center">
-  <img src="docs/photos/CREO_right_2.JPG"/>
+  <img src="docs/photos/CREO_right_3.jpg"/>
 </p>
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
@@ -172,7 +172,8 @@ Mechanical
   - Updates in CREO -- new color scheme! 
   
 <p align="center">
-  <img src="docs/photos/CREO_3_right.JPG" /> 
+  <img src="docs/photos/CREO_3_right.JPG" width= "300" height ="200" /> 
+  <img src="docs/photos/CREO_right_2.JPG" width= "300" height ="200" />
 </p>
 
 Hardware
