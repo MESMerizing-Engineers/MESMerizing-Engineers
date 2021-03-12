@@ -71,7 +71,6 @@ Electrical
   <img src="docs/photos/CREO_prototype2_updates.jpg" />
 </p>
 
-
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
 
 Software
@@ -119,8 +118,6 @@ Exciting week!
 
 Mechanical
   - Wire assembly and connections between components begun this week
-  - Lasercut second iteration of panels
-    - UC Davis Logo added to side panels
       
   CREO
   - Modifications done in CREO
@@ -132,22 +129,29 @@ Mechanical
   <img src="docs/photos/prototype_1_component_assembly4.JPG" width= "400" height ="400" /><br>
   Figure 1: Component Assembly preparation.<br>
   
+
+## Winter Quarter Week 5 Updates - 5 Feb 2021
+
+Mechanical
+  - Lasercut second iteration of panels
+    - UC Davis Logo added to side panels
+
   <img src="docs/photos/prototype_2_assembly1.jpg" /><br>
-  Figure 2: Prototype second iteration<br/><br>
+  Figure 1: Prototype second iteration<br/><br>
   
   <img src="docs/photos/prototype_2_bottom.JPG" /><br>
-  Figure 3: Bottom panel.<br>
+  Figure 2: Bottom panel.<br>
    
   <img src="docs/photos/prototype_2_frontback.JPG" /><br>
-  Figure 4: Front and back panels.<br>
+  Figure 3: Front and back panels.<br>
   
   <img src="docs/photos/prototype_2_sidepanels.JPG" /><br>
-  Figure 5: Side panels with UC Davis logo added.<br>
+  Figure 4: Side panels with UC Davis logo added.<br>
   
   <img src="docs/photos/CREO_2_modifieddesign.jpg" />
-  Figure 6: Modified design in CREO.<br/>
-  
+  Figure 5: Modified design in CREO.<br/>
 </p>
+
 
 
 ## Winter Quarter Week 4 Updates - 29 Jan 2021
