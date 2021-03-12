@@ -2,9 +2,9 @@
 <div align="left"><H2>See how the design has evolved...</H2></div>
 
 ---
-Design 2: First Prototype
+Design 3
 ---
-The chassis size increased to fit all components. 
+The chassis became smaller due to battery changes and wheels were added.
 
 <div align="center">
   
@@ -30,15 +30,20 @@ The chassis size increased to fit all components.
   </TABLE></div>
 
 
+
+
+
 ---
-Design 1: First Prototype
+Design 2: First Prototype
 ---
-Added camera mount, inspection camera, and wifi router.
+The chassis size increased to fit all components. 
 
 <div align="center">
   
 <p align="center">
-  <img src="docs/photos/CREO_left_1a.JPG"/>
+  <img src="photos/CREO_right_1.jpg"/>
+  <img src="photos/CREO_right_2.JPG"/>
+
 </p>
 
 <TABLE>
@@ -57,9 +62,38 @@ Added camera mount, inspection camera, and wifi router.
     <TD align="center">5.04"</TD>
   </TR>
   </TABLE></div>
+
+
+---
+Design 1.1: First Prototype
+---
+Added camera mount, inspection camera, and wifi router.
+
+<div align="center">
+  
+<p align="center">
+  <img src="photos/CREO_left_1a.JPG"/>
+</p>
+
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Description</b></TD>
+     <TD><b>Length</b></TD> 
+     <TD><b>Height</b></TD>
+     <TD><b>Width</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">Design 1.0</TD>
+    <TD align="center">Protoype</TD>
+    <TD align="center"> 24.63"</TD> 
+    <TD align="center">9.75"</TD>
+    <TD align="center">5.04"</TD>
+  </TR>
+  </TABLE></div>
   
 ---
-Initial Design
+Initial Design 1.0
 ---
 The dimensions of the initial design came from our first choice of premade chassis. 
 
