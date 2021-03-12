@@ -50,10 +50,11 @@ Documentation
       -  Failure Mode Effect Analysis (FMEA)
 
 <p align="center">
-  <img src="docs/photos/FMEA_pg1.jpg" /> 
+  <img src="docs/photos/FMEA_pg1.jpg" />
+  Figure: Partial View of FMEA. This highlights five causes of failures that can occur.
 </p>
 
-  Partial view of FMEA
+
   
 Mechanical
   - Updates in CREO -- new color scheme! 
