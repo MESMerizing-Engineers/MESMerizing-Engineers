@@ -23,7 +23,6 @@ title: "Components"
     <li> Control </li>
     <ul>
     <!-- Put Control Components Here -->
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#myRIO">Central Hardware Computer</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Jetson">On board Computer</a></li>
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#router">Router</a></li>
     </ul>
@@ -131,35 +130,6 @@ title: "Components"
 -->
 <div align ="center"><H2><b>Controls</b></H2></div>
 
-<div id="myRIO"></div>
-<p align="center">
-  <img src="photos/myrio.jpg" width="400" height ="400" />
- </p>
- 
- <div align= "center">
-<TABLE>
-   <TR>
-    <TD><b>Name</b></TD>
-     <TD><b>Desciption</b></TD>
-     <TD><b>Cost</b></TD> 
-     <TD><b>Weight[lbs]</b></TD>
-     <TD><b>Power[W]</b></TD>
-  </TR>
-  <TR>
-    <TD align="center">NI myRIO</TD>
-    <TD align="center">Controller</TD>
-    <TD align="center">1087.00</TD> 
-    <TD align="center">0.73</TD>
-    <TD align="center">1.2</TD>
-  </TR>
-  </TABLE>
-  </div>
-  
-<!--
-|   Name  |  Description   | Cost  | Weight|  Power  |
-|:-------:|:--------------:|:-----:|:-----:|:-------:|
-|NI myRIO |Controller      |1087.00|0.73lbs|1.2 watts|
--->
 <div id="Jetson"></div>
 <p align="center">
   <img src="photos/jetson.jpg" width= "400" height ="400" />
@@ -417,4 +387,35 @@ title: "Components"
 |:-------:|:--------------:|:-----:|:-----:|:--------:|
 |Roboteq 1040A|  Battery Managment System  |395.74 |  0.558  |watts|
 -->
-
+  <!--
+ <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#myRIO">Central Hardware Computer</a></li>
+<div id="myRIO"></div>
+<p align="center">
+  <img src="photos/myrio.jpg" width="400" height ="400" />
+ </p>
+ 
+ <div align= "center">
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Desciption</b></TD>
+     <TD><b>Cost</b></TD> 
+     <TD><b>Weight[lbs]</b></TD>
+     <TD><b>Power[W]</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">NI myRIO</TD>
+    <TD align="center">Controller</TD>
+    <TD align="center">1087.00</TD> 
+    <TD align="center">0.73</TD>
+    <TD align="center">1.2</TD>
+  </TR>
+  </TABLE>
+  </div>
+  
+<!--
+|   Name  |  Description   | Cost  | Weight|  Power  |
+|:-------:|:--------------:|:-----:|:-----:|:-------:|
+|NI myRIO |Controller      |1087.00|0.73lbs|1.2 watts|
+-->
+-->
