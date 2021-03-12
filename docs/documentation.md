@@ -1,24 +1,24 @@
----
-title: "Documentation"
----
+
 ### Documents
    <!-- <summary>Documents List</summary> -->
-  <ul>
-    <li> Software </li>
-    <ul>
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#DataLifeCycle">Data Life Cycle</a></li>
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#SoftwareStack">Software Stack</a></li>
-    </ul>
-    <li>Safety Standards </li>
-    <ul>
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#SafetyNote">Safety Note</a></li>
-    </ul>
-    <li> Maintenance </li>
-    <ul>
-    <!-- Put Maintenance Items Here -->
- <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Maintenance">Maintenance Checklist</a></li>
-   </ul>
-  </ul>
+#### Software
+<ul>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#DataLifeCycle">Data Life Cycle</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#SoftwareStack">Software Stack</a></li>
+</ul>
+
+#### Safety Standards
+
+<ul>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#SafetyNote">Safety Note</a></li>
+</ul>
+
+#### Maintenance 
+
+<ul>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Maintenance">Maintenance Checklist</a></li>
+</ul>
+
 
 
 
@@ -49,9 +49,12 @@ Safety Note is continuously being udpated.
 <div id="Maintenance"></div>
 
 ## Maintenance Checklist
+
 <center>
   <img src="photos/maintenanceCL.jpg" />
+   Preview of maintenance checklist
 </center>
-<a href="UCDR_R1.pdf">Download Data Life Cycle Here</a>
+
+<a href="UCDR_R1.pdf">Download Maintence Checklist Here</a>
   </div>
 
