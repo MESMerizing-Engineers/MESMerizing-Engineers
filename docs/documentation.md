@@ -50,10 +50,10 @@ Safety Note is continuously being udpated.
 
 ## Maintenance Checklist
 
-<center>
+<p align="center">
   <img src="photos/maintenanceCL.jpg" />
-   Preview of maintenance checklist
-</center>
+Preview of maintenance checklist
+</p>
 
 <a href="UCDR_R1.pdf">Download Maintence Checklist Here</a>
   </div>
