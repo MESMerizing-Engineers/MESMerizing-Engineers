@@ -42,11 +42,28 @@ LCD can cycle between different screens
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
 </p>
 
+## Winter Quarter Week 4 Updates - 29 Jan 2021
+
+<p align="center">
+  <img src="docs/photos/CREO_3_right.JPG" width= "400" height ="400" /> 
+  <img src="docs/photos/FMEA_pg1.jpg" width= "400" height ="400" /> 
+  <img src="docs/photos/prototype_1_assembly.JPG" width= "400" height ="300" /> 
+</p>
+
+Documentation
+  Main focus this week was preparing for the Concept Design Review presentation
+  - Failure Mode Effect Analysis (FMEA)
+Mechanical
+  Updates in CREO -- new color scheme!
+  
+Hardware
+  -   Prototype assembled
+
 ## Winter Quarter Week 3 Updates - 22 Jan 2021
 
 <p align="center">
   <img src="docs/photos/prototype_1_bottom.JPG" width= "400" height ="400" /> 
-  <img src="docs/photos/prototype_1_top.JPG" width= "400" height ="400" /> <img src="docs/photos/prototype_1_mid.JPG" width= "400" height ="200" />
+  <img src="docs/photos/prototype_1_top.JPG" width= "400" height ="400" /> 
   <img src="docs/photos/prototype_1_sidepanels.JPG" width= "400" height ="300" /> 
 </p>
 
