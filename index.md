@@ -50,7 +50,11 @@ LCD can cycle between different screens
 
 ## Winter Quarter Week 7 Updates - 19 Feb 2021
 
-Mechanical
+Ordered more components:
+  - ADALM-2000 for benchmark testing
+  - Thermal image sensor
+ 
+Mechanical updates and concerns that have come up:
 
 <p align="center">
   <img src="docs/photos/prototype_2_assembly2.jpg"  /><br>
