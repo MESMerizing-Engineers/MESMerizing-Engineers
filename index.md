@@ -7,11 +7,16 @@ ___
 </p>
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
+
 ## Project Milestone Schedule
-FMEA Review - 11/9/2020
-Data Cycle Review - 11/16/2020
-Safety Note Review - In Progress
-Conceptual Design Review - TBD
+- FMEA Review - 11/9/2020
+- Data Cycle Review - 11/16/2020
+- Safety Note Review - In Progress
+- Conceptual Design Review - TBD
+
+## We got a wheel moving! 8 MAR 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VcM2S-kSjew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## PWM is now working smoothly - Alex | Nick 7 MAR 2021
 <p align="center">
