@@ -4,7 +4,7 @@
 ---
 Design 3
 ---
-The chassis became smaller due to battery changes and wheels were added.
+Updated chassis due battery changes and wheels were added.
 
 <div align="center">
   
@@ -23,14 +23,11 @@ The chassis became smaller due to battery changes and wheels were added.
   <TR>
     <TD align="center">Design 2</TD>
     <TD align="center">Protoype</TD>
-    <TD align="center"> 24.63"</TD> 
-    <TD align="center">9.75"</TD>
-    <TD align="center">5.04"</TD>
+    <TD align="center"> 25.5"</TD> 
+    <TD align="center">16.25"</TD>
+    <TD align="center">6"</TD>
   </TR>
   </TABLE></div>
-
-
-
 
 
 ---
