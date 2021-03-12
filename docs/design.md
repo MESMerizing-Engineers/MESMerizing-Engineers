@@ -31,6 +31,34 @@ The chassis size increased to fit all components.
 
 
 ---
+Design 1: First Prototype
+---
+Added camera mount, inspection camera, and wifi router.
+
+<div align="center">
+  
+<p align="center">
+  <img src="docs/photos/CREO_left_1a.JPG"/>
+</p>
+
+<TABLE>
+   <TR>
+    <TD><b>Name</b></TD>
+     <TD><b>Description</b></TD>
+     <TD><b>Length</b></TD> 
+     <TD><b>Height</b></TD>
+     <TD><b>Width</b></TD>
+  </TR>
+  <TR>
+    <TD align="center">Design 2</TD>
+    <TD align="center">Protoype</TD>
+    <TD align="center"> 24.63"</TD> 
+    <TD align="center">9.75"</TD>
+    <TD align="center">5.04"</TD>
+  </TR>
+  </TABLE></div>
+  
+---
 Initial Design
 ---
 The dimensions of the initial design came from our first choice of premade chassis. 
