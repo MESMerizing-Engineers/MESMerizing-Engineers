@@ -7,7 +7,11 @@ ___
 </p>
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
-
+## Project Milestone Schedule
+FMEA Review - 11/9/2020
+Data Cycle Review - 11/16/2020
+Safety Note Review - In Progress
+Conceptual Design Review - TBD
 
 ## PWM is now working smoothly - Alex | Nick 7 MAR 2021
 <p align="center">
@@ -44,10 +48,40 @@ LCD can cycle between different screens
 </p>
 Update from previous week, the components were rearranged.
 
+## Winter Quarter Week 2 Updates - 15 Jan 2021
+<p align="center">
+  <img src="docs/photos/3DP_inspection_camera_case1.jpg"/> <img src="docs/photos/3DP_inspection_camera_case.jpg"/>
+  <img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
+</p>
+
+Mechanical
+  - Chassis materials purchased
+    - Fiberboard
+    - Washers
+    - Stainless Steel Hex bolts
+    - Corner braces   
+  - Lab Schedule set to begin prototype production
+ 
+Hardware
+  -   Inspection camera case was reprinted
+
+Software
+  Navigation cameras
+  - ROS installed and operate on the same LAN
+  - Bi-directional ssh enabled on both devices 
+  - Found reflections from depth images
+
+ Electrical
+  - Strain gauge implementation for batteries 
+
+<p align="center">
+  <img src="docs/photos/nav_reflections.jpg"/>
+</p>
+
 ## Winter Quarter Week 1 Updates - 8 Jan 2021
 <p align="center">
   <img src="docs/photos/3DP_fleur_camera_case.jpg"/><img src="docs/photos/3DP_inspection_camera_case.jpg"/>
-  <img src="docs/photos/CREO_left_1a.JPG"width= "450" height ="400"/>
+  <img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
 </p>
 
 Hardware
