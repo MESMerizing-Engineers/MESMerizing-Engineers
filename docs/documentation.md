@@ -15,7 +15,7 @@ title: "Documentation"
     </ul>
     <li> Maintenance </li>
     <ul>
-    <!-- Put Power Components Here -->
+    <!-- Put Maintenance Items Here -->
  <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Maintenance">Maintenance Checklist</a></li>
    </ul>
   </ul>
@@ -49,3 +49,9 @@ Safety Note is continuously being udpated.
 <div id="Maintenance"></div>
 
 ## Maintenance Checklist
+<center>
+  <img src="photos/maintenanceCL.jpg" />
+</center>
+<a href="UCDR_R1.pdf">Download Data Life Cycle Here</a>
+  </div>
+
