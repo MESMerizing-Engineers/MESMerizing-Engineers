@@ -42,6 +42,37 @@ LCD can cycle between different screens
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
 </p>
 
+## Winter Quarter Week 3 Updates - 22 Jan 2021
+
+<p align="center">
+  <img src="docs/photos/prototype_1_bottom.JPG" width= "400" height ="400" /> 
+  <img src="docs/photos/prototype_1_top.JPG" width= "400" height ="400" /> <img src="docs/photos/prototype_1_mid.JPG" width= "400" height ="200" />
+  <img src="docs/photos/prototype_1_sidepanels.JPG" width= "400" height ="300" /> 
+</p>
+
+Software
+  1. Jetson/ROS
+    Compatibility issues:
+      - RTABMap performance is slow
+      - 3-d point cloud is blank
+      - Problems with Realsense SDK installation 
+
+    Continued Troubleshooting:
+      - Parameter tuning 
+      - Software reinstallation
+
+2. Raspberry Pi 4:
+    ROS installed 
+      - Server→ Ubuntu 18.04 Desktop
+      - Melodic
+          Python3 
+3. Machine Learning Course
+    - Started courses to implement image processing 
+Hardware
+  -   Laser cut panels for prototype
+ 
+
+
 ## Redesigned component configuration - Uyen, Nick, Liam 19 FEB 2021
 <p align="center">
   <img src="docs/photos/chassis_redesign.JPG" />
@@ -49,6 +80,7 @@ LCD can cycle between different screens
 Update from previous week, the components were rearranged.
 
 ## Winter Quarter Week 2 Updates - 15 Jan 2021
+
 <p align="center">
   <img src="docs/photos/3DP_inspection_camera_case1.jpg"/> <img src="docs/photos/3DP_inspection_camera_case.jpg"/>
   <img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
