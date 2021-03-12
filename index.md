@@ -44,6 +44,27 @@ LCD can cycle between different screens
 
 ## Winter Quarter Week 9 Updates - 5 Mar 2021
 
+Software
+  - Verified hardware client for PWM
+
+Documentation
+For compliance with safety standards, the following was received this week
+- IPC/WHMA-A-620C-ENGLISH: Requirements and Acceptance for Cable and Wire Harness Assemblies
+- Github updates added
+
+Mechanical
+- Ordered wheels and wheel assembly parts
+- CREO updated with new battery and wheels
+- Charging station updates for LiFEPO4 battery
+
+Electrical
+- Proposed options following DC-DC converter failure
+
+<p align="center">
+  <img src="docs/photos/battery_comparison.jpg" />
+  <img src="docs/photos/CREO_prototype2_updates.jpg" />
+</p>
+
 
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
 
