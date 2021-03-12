@@ -1,6 +1,7 @@
 ## Home Page Content
 ___
 # Hawkeye
+Follow our progress...
 
 <p align="center">
   <img src="docs/photos/CREO_right_2.JPG"/>
