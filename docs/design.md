@@ -9,7 +9,7 @@ Updated chassis due battery changes and wheels were added.
 <div align="center">
   
 <p align="center">
-  <img src="photos/CREO_right_1.jpg"/>
+  <img src="photos/CREO_right_3.jpg"/>
 </p>
 
 <TABLE>
@@ -19,13 +19,15 @@ Updated chassis due battery changes and wheels were added.
      <TD><b>Length</b></TD> 
      <TD><b>Height</b></TD>
      <TD><b>Width</b></TD>
+     <TD><b>Weight</b></TD>
   </TR>
   <TR>
-    <TD align="center">Design 2</TD>
+    <TD align="center">Design 3</TD>
     <TD align="center">Protoype</TD>
     <TD align="center"> 25.5"</TD> 
     <TD align="center">16.25"</TD>
-    <TD align="center">6"</TD>
+    <TD align="center"> 6"</TD>
+   <TD align="center">46 lbs "</TD>
   </TR>
   </TABLE></div>
 
@@ -38,8 +40,8 @@ The chassis size increased to fit all components.
 <div align="center">
   
 <p align="center">
-  <img src="photos/CREO_right_1.jpg"/>
-  <img src="photos/CREO_right_2.JPG"/>
+  <img src="photos/CREO_right_1.jpg" width= "600" height ="400"/>
+  <img src="photos/CREO_right_2.JPG" width= "600" height ="400"/>
 
 </p>
 
@@ -48,15 +50,18 @@ The chassis size increased to fit all components.
     <TD><b>Name</b></TD>
      <TD><b>Description</b></TD>
      <TD><b>Length</b></TD> 
-     <TD><b>Height</b></TD>
      <TD><b>Width</b></TD>
+     <TD><b>Height</b></TD>
+     <TD><b>Weight</b></TD>
+
   </TR>
   <TR>
     <TD align="center">Design 2</TD>
     <TD align="center">Protoype</TD>
-    <TD align="center"> 24.63"</TD> 
-    <TD align="center">9.75"</TD>
-    <TD align="center">5.04"</TD>
+    <TD align="center"> 28"</TD> 
+    <TD align="center">20.5"</TD>
+    <TD align="center">5.5"</TD>
+    <TD align="center">32 lbs</TD>
   </TR>
   </TABLE></div>
 
