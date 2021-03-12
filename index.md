@@ -254,7 +254,7 @@ Software
 ## Winter Quarter Week 1 Updates - 8 Jan 2021
 <p align="center">
   <img src="docs/photos/3DP_fleur_camera_case.jpg" /> 
-  <img src="docs/photos/3DP_inspection_camera_case.jpg"/><img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
+  <img src="docs/photos/3DP_inspection_camera_case.jpg"/><img src="docs/photos/CREO_left_1a.JPG" />
 </p>
 
 Hardware
