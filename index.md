@@ -42,6 +42,42 @@ LCD can cycle between different screens
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
 </p>
 
+## Winter Quarter Week 6 Updates - 12 Feb 2021
+Exciting week!
+
+Mechanical
+  - Wire assembly and connections between components begun this week
+  - Lasercut second iteration of panels
+    - UC Davis Logo added to side panels
+      
+  CREO
+  - Modifications done in CREO
+
+<p align="center">
+  <img src="docs/photos/prototype_1_component_assembly1.JPG" width= "400" height ="400" />
+  <img src="docs/photos/prototype_1_component_assembly2.JPG" width= "400" height ="400" />
+  <img src="docs/photos/prototype_1_component_assembly3.JPG" width= "400" height ="400" />
+  <img src="docs/photos/prototype_1_component_assembly4.JPG" width= "400" height ="400" /><br/>
+  Figure 1: Component Assembly preparation.<br/>
+  
+  <img src="docs/photos/prototype_2_assembly1.jpg" /><br/>
+  Figure 2: Prototype second iteration<br/><br/>
+  
+  <img src="docs/photos/prototype_2_bottom.JPG" /><br/>
+  Figure 3: Bottom panel.<br/>
+   
+  <img src="docs/photos/prototype_2_frontback.JPG" /><br/>
+  Figure 4: Front and back panels.<br/>
+  
+  <img src="docs/photos/prototype_2_sidepanels.JPG" /><br/>
+  Figure 5: Side panels with UC Davis logo added.<br/>
+  
+  <img src="docs/photos/CREO_2_modifieddesign.jpg" />
+  Figure 6: Modified design in CREO.<br/>
+  
+</p>
+
+
 ## Winter Quarter Week 4 Updates - 29 Jan 2021
 
 Documentation
