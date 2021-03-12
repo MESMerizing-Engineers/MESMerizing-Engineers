@@ -54,13 +54,13 @@ Documentation
 Mechanical
   Updates in CREO -- new color scheme! 
   <p align="center">
-  <img src="docs/photos/CREO_3_right.JPG" width= "300" height ="250" /> 
+  <img src="docs/photos/CREO_3_right.JPG" width= "400" height ="400" /> 
 </p>
 
 Hardware
   -   Prototype assembled
 <p align="center">
-  <img src="docs/photos/prototype_1_assembly.JPG" width= "400" height ="300" /> 
+  <img src="docs/photos/prototype_1_assembly.JPG" width= "500" height ="400" /> 
 </p>
 
 ## Winter Quarter Week 3 Updates - 22 Jan 2021
@@ -68,7 +68,7 @@ Hardware
 <p align="center">
   <img src="docs/photos/prototype_1_bottom.JPG" width= "400" height ="400" /> 
   <img src="docs/photos/prototype_1_top.JPG" width= "400" height ="400" /> 
-  <img src="docs/photos/prototype_1_sidepanels.JPG" width= "400" height ="300" /> 
+  <img src="docs/photos/prototype_1_sidepanels.JPG" /> 
 </p>
 
 Software
@@ -77,7 +77,6 @@ Software
       - RTABMap performance is slow
       - 3-d point cloud is blank
       - Problems with Realsense SDK installation 
-
     Continued Troubleshooting:
       - Parameter tuning 
       - Software reinstallation
@@ -89,22 +88,24 @@ Software
           Python3 
 3. Machine Learning Course
     - Started courses to implement image processing 
+
 Hardware
+
   -   Laser cut panels for prototype
  
 
-
 ## Redesigned component configuration - Uyen, Nick, Liam 19 FEB 2021
+
 <p align="center">
   <img src="docs/photos/chassis_redesign.JPG" />
 </p>
+
 Update from previous week, the components were rearranged.
 
 ## Winter Quarter Week 2 Updates - 15 Jan 2021
 
 <p align="center">
-  <img src="docs/photos/3DP_inspection_camera_case1.jpg"/> <img src="docs/photos/3DP_inspection_camera_case.jpg"/>
-  <img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
+  <img src="docs/photos/3DP_navigation_camera_case2.jpg"/>
 </p>
 
 Mechanical
@@ -133,23 +134,26 @@ Software
 
 ## Winter Quarter Week 1 Updates - 8 Jan 2021
 <p align="center">
-  <img src="docs/photos/3DP_fleur_camera_case.jpg"/><img src="docs/photos/3DP_inspection_camera_case.jpg"/>
-  <img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
+  <img src="docs/photos/3DP_fleur_camera_case.jpg" /> 
+  <img src="docs/photos/3DP_inspection_camera_case.jpg"/><img src="docs/photos/CREO_left_1a.JPG" width= "450" height ="400"/>
 </p>
 
 Hardware
   - Received second myRIO
+
 3D printed
   -   Intel RealSense camera mount
   -   Drive wheel adapters
   -   Inspection camera case 
   -   Fleur camera case
+
 Documentation
   The following documents were being prepared for the Concept Design Review Presentation
   - Safety Note
     - Based on Designing and Fabricating Safe Electrical Equipment
     - IPC/WHMA-A-620C  
   - Software Stack
+
 CREO
   Design was updated to add the following
   - Wifi router
