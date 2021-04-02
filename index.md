@@ -9,8 +9,6 @@ Follow our progress...
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
 
-<details>
-  <summary>Highlights</summary>
   <ul>
     <li> Highlights</li>
     <ul>
@@ -40,7 +38,7 @@ Follow our progress...
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#FQ10">Fall Quarter Week 10 Updates</a></li>
     </ul>
   </ul>
-</details>
+
 
 <div id="Milestone"></div>
 
