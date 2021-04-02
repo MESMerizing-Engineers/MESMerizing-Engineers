@@ -39,8 +39,6 @@ Follow our progress...
     </ul>
   </ul>
 
-<details>
-<summary>Project Milestone Schedule</summary>
 <div id="Milestone"></div>
 
 ## Project Milestone Schedule
@@ -48,26 +46,20 @@ Follow our progress...
 - Data Cycle Review - 11/16/2020
 - Safety Note Review - In Progress
 - Conceptual Design Review - TBD
-</details>
 
 <div id="SQ1"></div>
 
 - Test plan
-- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<details>
-<summary>We got a wheel moving!</summary>
+
 <div id="08MAR2021"></div>
-  
 ## We got a wheel moving! 8 MAR 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VcM2S-kSjew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
 
-<details>
-<summary> PWM is now working smoothly</summary>
-  
+
 ## PWM is now working smoothly - Alex | Nick 7 MAR 2021
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qoUVXheuOjs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,21 +67,15 @@ Follow our progress...
 - Alex updated the arduino code for changing resolution.
 - Nick tested full forward and full reverse with the new code and implemented interrupt
 pins which resulted smooth transitions.
-</details>
 
-<details>
-<summary> Remote Control Functionality Test </summary>
   
 ## Remote Control Functionality Test - Alex Yu 1 MAR 2021
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hM1WgEU2hRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-</details>
 
-<details>
-<summary> LCD Display for strain gauge readings </summary>
+
 <div id="LCD Display"></div>
-  
 ## LCD Display for strain gauge readings - Liam Moore 26 FEB 2021
 To comply with ANSI safety standards, this will help monitor the status of the battery.
 and will be mounted on the side of the robot
@@ -105,12 +91,8 @@ LCD can cycle between different screens
 <p align="center">
   <img src="docs/photos/lcd_display_straingauge.jpg" width= "400" height ="400"/>
 </p>
-</details>
 
-<details>
-<summary> Winter Quarter Week 9 Updates</summary>
 <div id="WQ9"></div>
-  
 ## Winter Quarter Week 9 Updates - 5 Mar 2021
 
 Software
@@ -133,12 +115,9 @@ Electrical
   <img src="docs/photos/battery_comparison.jpg" />
   <img src="docs/photos/CREO_prototype2_updates.jpg" />
 </p>
-</details>
-  
-<details>
-<summary> Winter Quarter Week 8 Updates - 26 Feb 2021 </summary>
-<div id="WQ8"></div>
 
+
+<div id="WQ8"></div>
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
 
 Software
@@ -162,13 +141,8 @@ Mechanical:
   <img src="docs/photos/prototype_2_assembly4.jpg"  />
   Figure 3: Assembled Prototype-1 Baseplate.<br>
 </p>
-</details>
 
-
-<details>
-<summary> Week 7 - 19 Feb 2021 </summary>
 <div id="WQ7"></div>
-  
 ## Winter Quarter Week 7 Updates - 19 Feb 2021
 
 Ordered more components:
@@ -188,7 +162,6 @@ Mechanical updates and concerns that have come up:
 </details>
 
 <div id="WQ6"></div>
-
 ## Winter Quarter Week 6 Updates - 12 Feb 2021
 
 Exciting week!
