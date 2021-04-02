@@ -3,24 +3,21 @@
    <!-- <summary>Documents List</summary> -->
 #### Software
 <ul>
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#DataLifeCycle">Data Life Cycle</a></li>
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#SoftwareStack">Software Stack</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/documentation#DataLifeCycle">Data Life Cycle</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/documentation#SoftwareStack">Software Stack</a></li>
 </ul>
 
 #### Safety Standards
 
 <ul>
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#SafetyNote">Safety Note</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/documentation#SafetyNote">Safety Note</a></li>
 </ul>
 
 #### Maintenance 
 
 <ul>
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/components#Maintenance">Maintenance Checklist</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/docs/documentation#Maintenance">Maintenance Checklist</a></li>
 </ul>
-
-
-
 
 
 
