@@ -18,7 +18,7 @@ Follow our progress...
     <li> Spring Quarter Weekly Updates</li>
     <ul>
     <!-- Put Spring Quarter Updates Here -->      
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ8">Winter Quarter Week 8 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#SQ1">Week 1</a></li>
     </ul>
     <li> Winter Quarter 2020 Weekly Updates </li>
     <ul>
