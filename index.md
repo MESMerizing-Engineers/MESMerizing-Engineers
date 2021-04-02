@@ -50,6 +50,12 @@ Follow our progress...
 - Conceptual Design Review - TBD
 </details>
 
+<div id="SQ1"></div>
+
+- Test plan
+- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <details>
 <summary>We got a wheel moving!</summary>
 <div id="08MAR2021"></div>
@@ -182,7 +188,9 @@ Mechanical updates and concerns that have come up:
 </details>
 
 <div id="WQ6"></div>
+
 ## Winter Quarter Week 6 Updates - 12 Feb 2021
+
 Exciting week!
 
 Mechanical
