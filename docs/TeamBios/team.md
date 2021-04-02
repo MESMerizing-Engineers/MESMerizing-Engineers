@@ -12,7 +12,7 @@ ___
 |**Nick Newcomb** <br/> **Electrical/Programming** <br/> B.S./M.S. Electrical Engineering <br/> June 2021/June 2022 <br/> Focus: DSP Engineer/Machine Learning <br/> [Bio/Interests](Nick.md)<br/> | <img src="images/NickBioPic.jpg" width= "225" height ="300" /> | 
 |**Alex Yu** <br/> **Electrical/Programming** <br/> B.S. Computer Engineering <br/> June 2021 <br/> Focus: Computer Architecture/Machine Learning <br/> [Bio/Interests](Alex.md)<br/> |  <img src="images/AlexBioPic.jpg" width= "225" height ="300" /> |
 
- 
+<!--  Revision 2
 <p align="center">
 <div align= "center">
 <TABLE>
@@ -43,6 +43,8 @@ ___
   </TABLE>
   </div>
   </p>
+-->
+
 
   <!--  
 |**Jen Dacanay** <br/> **Electrical/Programming** <br/> B.S./M.S. Electrical Engineering June 2021/June 2022 <br/> Focus: Digital Signal Processing/Circuits <br/> [Bio/Interests](Jen.md)<br/> |![](images/images/JenBioPic.png) |
