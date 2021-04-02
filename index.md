@@ -1,12 +1,20 @@
 ## Home Page Content
 ___
 # Hawkeye
-Follow our progress...
 
 <p align="center">
   <img src="docs/photos/CREO_right_3.jpg"/>
 </p>
 <div align="center"><H2> Autonomous Inspection Robot</H2>
+
+Follow our team's progress here. Weekly updates highlight completed tasks.
+
+<div id="SQ1"></div>
+
+- Created a Test plan to execute within the capacitor bays
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
 
   <ul>
@@ -47,11 +55,7 @@ Follow our progress...
 - Safety Note Review - In Progress
 - Conceptual Design Review - TBD
 
-<div id="SQ1"></div>
 
-- Test plan
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div id="08MAR2021"></div>
   
