@@ -9,14 +9,22 @@ Follow our progress...
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
 
-
-<ul>
+<details>
+  <summary>Highlights</summary>
+  <ul>
+    <li> Highlights</li>
+    <ul>
+    <!-- Add Milestones Here -->      
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#Milestone">Project Milestone Schedule</a></li>
-</ul>
-### Spring Quarter 2021 Weekly Updates
-   <!-- <summary>Weekly Update List</summary> -->
-#### Winter Quarter 2020 Weekly Updates
-<ul>
+    </ul>
+    <li> Spring Quarter Weekly Updates</li>
+    <ul>
+    <!-- Put Spring Quarter Updates Here -->      
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ8">Winter Quarter Week 8 Updates</a></li>
+    </ul>
+    <li> Winter Quarter 2020 Weekly Updates </li>
+    <ul>
+    <!-- Put Winter Quarter Updates Here -->
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ8">Winter Quarter Week 8 Updates</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ7">Winter Quarter Week 7 Updates</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ6">Winter Quarter Week 6 Updates</a></li>
@@ -25,13 +33,14 @@ Follow our progress...
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ3">Winter Quarter Week 3 Updates</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ2">Winter Quarter Week 2 Updates</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ1">Winter Quarter Week 1 Updates</a></li>
-</ul>
-#### Fall Quarter 2020 Weekly Updates
-
-<ul>
+    </ul>
+    <li> Fall Quarter 2020 Weekly Updates </li>
+    <ul>
+    <!-- Put Fall Quarter Updates Here -->
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#FQ10">Fall Quarter Week 10 Updates</a></li>
-</ul>
-
+    </ul>
+  </ul>
+</details>
 
 <div id="Milestone"></div>
 ## Project Milestone Schedule
