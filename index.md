@@ -4,18 +4,22 @@ ___
 
 <p align="center">
   <img src="docs/photos/CREO_right_3.jpg"/>
+  <H2> Autonomous Inspection Robot</H2>
 </p>
-<div align="center"><H2> Autonomous Inspection Robot</H2>
 
-Follow our team's progress here. Weekly updates highlight completed tasks.
+
 
 <div id="SQ1"></div>
+
+## Spring Quarter Week 1 Updates - 2 Apr 2021
 
 - Created a Test plan to execute within the capacitor bays
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+### Follow our team's progress here. Weekly updates highlight completed tasks.
 
   <ul>
     <li> Highlights</li>
@@ -54,8 +58,6 @@ Follow our team's progress here. Weekly updates highlight completed tasks.
 - Data Cycle Review - 11/16/2020
 - Safety Note Review - In Progress
 - Conceptual Design Review - TBD
-
-
 
 <div id="08MAR2021"></div>
   
