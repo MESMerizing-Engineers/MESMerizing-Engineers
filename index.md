@@ -53,10 +53,7 @@ Follow our progress...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 <div id="08MAR2021"></div>
-
-<details>
   
 ## We got a wheel moving! 8 MAR 2021
 
@@ -166,7 +163,6 @@ Mechanical updates and concerns that have come up:
   <img src="docs/photos/prototype_2_assembly4.jpg"  />
   Figure 1: Assembled Prototype-1 Baseplate.<br>
 </p>
-</details>
 
 <div id="WQ6"></div>
 
@@ -386,4 +382,3 @@ Happy Holidays! - Alex Yu
 </p>
 </div>
 
-</details>
