@@ -55,6 +55,9 @@ Follow our progress...
 
 
 <div id="08MAR2021"></div>
+
+<details>
+  
 ## We got a wheel moving! 8 MAR 2021
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VcM2S-kSjew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,6 +79,7 @@ pins which resulted smooth transitions.
 
 
 <div id="LCD Display"></div>
+
 ## LCD Display for strain gauge readings - Liam Moore 26 FEB 2021
 To comply with ANSI safety standards, this will help monitor the status of the battery.
 and will be mounted on the side of the robot
@@ -93,6 +97,7 @@ LCD can cycle between different screens
 </p>
 
 <div id="WQ9"></div>
+
 ## Winter Quarter Week 9 Updates - 5 Mar 2021
 
 Software
@@ -118,6 +123,7 @@ Electrical
 
 
 <div id="WQ8"></div>
+
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
 
 Software
@@ -143,6 +149,7 @@ Mechanical:
 </p>
 
 <div id="WQ7"></div>
+
 ## Winter Quarter Week 7 Updates - 19 Feb 2021
 
 Ordered more components:
@@ -162,6 +169,7 @@ Mechanical updates and concerns that have come up:
 </details>
 
 <div id="WQ6"></div>
+
 ## Winter Quarter Week 6 Updates - 12 Feb 2021
 
 Exciting week!
@@ -180,6 +188,7 @@ Mechanical
   Figure 1: Component Assembly preparation.<br>
   
 <div id="WQ5"></div>
+
 ## Winter Quarter Week 5 Updates - 5 Feb 2021
 
 Mechanical
@@ -204,6 +213,7 @@ Mechanical
 
 
 <div id="WQ4"></div>
+
 ## Winter Quarter Week 4 Updates - 29 Jan 2021
 
 Documentation
@@ -234,6 +244,7 @@ Hardware
 </p>
 
 <div id="WQ3"></div>
+
 ## Winter Quarter Week 3 Updates - 22 Jan 2021
 
 <p align="center">
@@ -261,9 +272,7 @@ Software
     - Started courses to implement image processing 
 
 Hardware
-
   -   Laser cut panels for prototype
- 
 
 ## Redesigned component configuration - Uyen, Nick, Liam 19 FEB 2021
 
@@ -274,6 +283,7 @@ Hardware
 Update from previous week, the components were rearranged.
 
 <div id="WQ2"></div>
+
 ## Winter Quarter Week 2 Updates - 15 Jan 2021
 
 <p align="center">
@@ -305,6 +315,7 @@ Software
 </p>
 
 <div id="WQ1"></div>
+
 ## Winter Quarter Week 1 Updates - 8 Jan 2021
 <p align="center">
   <img src="docs/photos/3DP_fleur_camera_case.jpg" /> 
@@ -349,6 +360,7 @@ Video shows the turret running the PXTurretTest
 </p>
 
 <div id="FQ10"></div>
+
 ## We have Mapping! - Alex Yu 24 DEC 2020
 With the holidays just around the corner, we are all enjoying some much needed R&R. That said, it's never a bad time to post an update!
 <p align="center">
@@ -373,3 +385,5 @@ Happy Holidays! - Alex Yu
   <img src="docs/photos/CREO_top.jpg" />
 </p>
 </div>
+
+</details>
