@@ -50,7 +50,6 @@ Follow our progress...
 - Conceptual Design Review - TBD
 </details>
 
-
 <details>
 <summary>We got a wheel moving!</summary>
 <div id="08MAR2021"></div>
@@ -130,7 +129,10 @@ Electrical
 </p>
 </details>
   
+<details>
+<summary> Winter Quarter Week 8 Updates - 26 Feb 2021 </summary>
 <div id="WQ8"></div>
+
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
 
 Software
@@ -154,8 +156,13 @@ Mechanical:
   <img src="docs/photos/prototype_2_assembly4.jpg"  />
   Figure 3: Assembled Prototype-1 Baseplate.<br>
 </p>
+</details>
 
+
+<details>
+<summary> Week 7 - 19 Feb 2021 </summary>
 <div id="WQ7"></div>
+  
 ## Winter Quarter Week 7 Updates - 19 Feb 2021
 
 Ordered more components:
