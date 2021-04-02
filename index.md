@@ -179,6 +179,7 @@ Mechanical updates and concerns that have come up:
   <img src="docs/photos/prototype_2_assembly4.jpg"  />
   Figure 1: Assembled Prototype-1 Baseplate.<br>
 </p>
+</details>
 
 <div id="WQ6"></div>
 ## Winter Quarter Week 6 Updates - 12 Feb 2021
