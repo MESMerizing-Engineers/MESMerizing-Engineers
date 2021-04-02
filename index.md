@@ -9,11 +9,38 @@ Follow our progress...
 <div align="center"><H2> Autonomous Inspection Robot</H2>
 </div>
 
+
+<ul>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#Milestone">Project Milestone Schedule</a></li>
+</ul>
+### Spring Quarter 2021 Weekly Updates
+   <!-- <summary>Weekly Update List</summary> -->
+#### Winter Quarter 2020 Weekly Updates
+<ul>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ8">Winter Quarter Week 8 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ7">Winter Quarter Week 7 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ6">Winter Quarter Week 6 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ5">Winter Quarter Week 5 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ4">Winter Quarter Week 4 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ3">Winter Quarter Week 3 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ2">Winter Quarter Week 2 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ1">Winter Quarter Week 1 Updates</a></li>
+</ul>
+#### Fall Quarter 2020 Weekly Updates
+
+<ul>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#FQ10">Fall Quarter Week 10 Updates</a></li>
+</ul>
+
+
+<div id="Milestone"></div>
 ## Project Milestone Schedule
 - FMEA Review - 11/9/2020
 - Data Cycle Review - 11/16/2020
 - Safety Note Review - In Progress
 - Conceptual Design Review - TBD
+
+<div id="Milestone"></div>
 
 ## We got a wheel moving! 8 MAR 2021
 
@@ -71,6 +98,7 @@ Electrical
   <img src="docs/photos/CREO_prototype2_updates.jpg" />
 </p>
 
+<div id="WQ8"></div>
 ## Winter Quarter Week 8 Updates - 26 Feb 2021
 
 Software
@@ -95,7 +123,7 @@ Mechanical:
   Figure 3: Assembled Prototype-1 Baseplate.<br>
 </p>
 
-
+<div id="WQ7"></div>
 ## Winter Quarter Week 7 Updates - 19 Feb 2021
 
 Ordered more components:
@@ -113,6 +141,7 @@ Mechanical updates and concerns that have come up:
   Figure 1: Assembled Prototype-1 Baseplate.<br>
 </p>
 
+<div id="WQ6"></div>
 ## Winter Quarter Week 6 Updates - 12 Feb 2021
 Exciting week!
 
@@ -129,7 +158,7 @@ Mechanical
   <img src="docs/photos/prototype_1_component_assembly4.JPG" width= "400" height ="400" /><br>
   Figure 1: Component Assembly preparation.<br>
   
-
+<div id="WQ5"></div>
 ## Winter Quarter Week 5 Updates - 5 Feb 2021
 
 Mechanical
@@ -153,7 +182,7 @@ Mechanical
 </p>
 
 
-
+<div id="WQ4"></div>
 ## Winter Quarter Week 4 Updates - 29 Jan 2021
 
 Documentation
@@ -183,6 +212,7 @@ Hardware
   <img src="docs/photos/prototype_1_assembly.JPG" /> 
 </p>
 
+<div id="WQ3"></div>
 ## Winter Quarter Week 3 Updates - 22 Jan 2021
 
 <p align="center">
@@ -222,6 +252,7 @@ Hardware
 
 Update from previous week, the components were rearranged.
 
+<div id="WQ2"></div>
 ## Winter Quarter Week 2 Updates - 15 Jan 2021
 
 <p align="center">
@@ -252,6 +283,7 @@ Software
   <img src="docs/photos/nav_reflections.jpg"/>
 </p>
 
+<div id="WQ1"></div>
 ## Winter Quarter Week 1 Updates - 8 Jan 2021
 <p align="center">
   <img src="docs/photos/3DP_fleur_camera_case.jpg" /> 
@@ -295,6 +327,7 @@ Video shows the turret running the PXTurretTest
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeZ6y1lZpQQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<div id="FQ10"></div>
 ## We have Mapping! - Alex Yu 24 DEC 2020
 With the holidays just around the corner, we are all enjoying some much needed R&R. That said, it's never a bad time to post an update!
 <p align="center">
