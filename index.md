@@ -18,12 +18,12 @@ Follow our progress...
     <li> Spring Quarter Weekly Updates</li>
     <ul>
     <!-- Put Spring Quarter Updates Here -->      
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#SQ1">Week 1</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#SQ1">Week 1: Hawkeye's first ride</a></li>
     </ul>
     <li> Winter Quarter 2020 Weekly Updates </li>
     <ul>
     <!-- Put Winter Quarter Updates Here -->
-<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ8">Winter Quarter Week 8 Updates</a></li>
+<li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ8">Week 8: DCDC converter malfunctions</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ7">Winter Quarter Week 7 Updates</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ6">Winter Quarter Week 6 Updates</a></li>
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#WQ5">Winter Quarter Week 5 Updates</a></li>
