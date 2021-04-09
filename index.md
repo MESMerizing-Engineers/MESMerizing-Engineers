@@ -7,19 +7,19 @@ ___
   <H2> Autonomous Inspection Robot</H2>
 </p>
 
-
-
 <div id="SQ1"></div>
 
 ## Spring Quarter Week 1 Updates - 2 Apr 2021
 
+- Drafted GUI for manual operation using Python
 - Created a Test plan to execute within the capacitor bays
+- Proof of Concept for Image Processing
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz47xg1DyYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
-</div>
-
-### Follow our team's progress here. Weekly updates highlight completed tasks.
+### Follow our team's progress here.
 
   <ul>
     <li> Highlights</li>
@@ -27,7 +27,7 @@ ___
     <!-- Add Milestones Here -->      
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#Milestone">Project Milestone Schedule</a></li>
     </ul>
-    <li> Spring Quarter Weekly Updates</li>
+    <li> Spring Quarter Updates</li>
     <ul>
     <!-- Put Spring Quarter Updates Here -->      
 <li><a href="https://mesmerizing-engineers.github.io/MESMerizing-Engineers/index#SQ1">Week 1: Hawkeye's first ride</a></li>
@@ -61,10 +61,11 @@ ___
 
 <div id="08MAR2021"></div>
   
-## We got a wheel moving! 8 MAR 2021
+## We have movement. 8 MAR 2021
 
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VcM2S-kSjew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</p>
 
 ## PWM is now working smoothly - Alex | Nick 7 MAR 2021
 <p align="center">
