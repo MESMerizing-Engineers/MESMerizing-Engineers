@@ -38,7 +38,6 @@ The chassis size increased to fit all components.
 <div align="center">
   
 <p align="center">
-  <img src="photos/CREO_right_1.jpg" width= "600" height ="400"/>
   <img src="photos/CREO_right_2.JPG" width= "600" height ="400"/>
 
 </p>
