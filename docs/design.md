@@ -31,10 +31,8 @@ Updated chassis due to battery changes and added wheels.
   </TR>
   </TABLE></div>
 
+## Design 2
 
----
-Design 2: First Prototype
----
 The chassis size increased to fit all components. 
 
 <div align="center">
@@ -64,7 +62,6 @@ The chassis size increased to fit all components.
     <TD align="center">32 lbs</TD>
   </TR>
   </TABLE></div>
-
 
 
 ## Design 1.1: First Prototype
@@ -99,7 +96,7 @@ Added camera mount, inspection camera, and wifi router.
 
 The dimensions of the initial design came from our first choice of premade chassis. 
 
-<p align="left">
+<p align="center">
   <img src="photos/CREO_right.jpg" width= "300" height ="300"/>
   <img src="photos/CREO_chassisblowup.png" width= "300" height ="300"/>
    <img src="photos/CREO_top.jpg" width= "300" height ="300"/>
@@ -115,11 +112,11 @@ The dimensions of the initial design came from our first choice of premade chass
      <TD><b>Width</b></TD>
   </TR>
   <TR>
-    <TD align="center">Design 1</TD>
-    <TD align="center">Initial model</TD>
-    <TD align="center">12.5"</TD> 
-    <TD align="center">11"</TD>
-    <TD align="center">4"</TD>
+    <TD align="center"> Design 1 </TD>
+    <TD align="center"> Initial model </TD>
+    <TD align="center"> 12.5" </TD> 
+    <TD align="center"> 11" </TD>
+    <TD align="center"> 4" </TD>
   </TR>
   </TABLE>
   </div>
