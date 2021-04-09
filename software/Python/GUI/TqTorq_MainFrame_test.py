@@ -31,7 +31,7 @@ root = TkTorq()
 root.title("MESMerizing Engineers") # Change the title of the window.
 
 
-header = tk.Label(root,text='HAWKeye GUI',bg='royalblue')
+header = tk.Label(root,text='HAWKeye GUI',bg='royalblue',font=('courier',20,'bold'))
 header.grid(row=0, column=0, sticky = 'EW')
 
 NB = TkTorqNB(root)
@@ -48,11 +48,20 @@ nav_frame.grid(row=2,
                column=0,
                sticky='NSEW'
                )
+
+#%%
 home_frame = HomeFrame(NB, plot_frame)
 home_frame.grid(row=1,
                column=0,
                sticky='NSEW'
                )
+home_nav_frame = NavToolBarFrame(home_frame)
+home_nav_frame.grid(row=2,
+               column=0,
+               sticky='NSEW'
+               )
+#%%
+
 
 
 Settings_frame = PlotFrame(NB)
