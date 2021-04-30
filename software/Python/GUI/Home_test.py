@@ -22,11 +22,11 @@ class HomeFrame(ttk.Frame):
         self.fig = plt.Figure(figsize=[16,9])
         self.ax = self.fig.add_subplot(111)
         #self.img = mpimg.imread("CREO_proto.png")
-        self.img = Image.open("map.png")   #.convert('LA') for grey scale
+        self.img = Image.open("CREO_proto.png")   #.convert('LA') for grey scale
         #self.img.thumbnail((64, 64), Image.ANTIALIAS)  # resizes image in-place
         self.ax.imshow(self.img)
         self.ax.set_title('Primary Screen',weight='bold',fontsize=20,color='royalblue')
-        self.ax.grid(color='royalblue',linestyle='-.')
+        #self.ax.grid(color='royalblue',linestyle='-.')
         #self.ax.plot(np.linspace(0,2*np.pi,1000),np.sin(np.linspace(0,2*np.pi,1000)))
         
         self.fig.patch.set_facecolor('lightgrey')
@@ -44,7 +44,7 @@ class HomeFrame(ttk.Frame):
         
         self.fig2 = plt.Figure(figsize=[10,10])
         self.ax2 = self.fig2.add_subplot(111)
-        self.img2 = Image.open("CREO_proto.png")   #.convert('LA') for grey scale
+        self.img2 = Image.open("map.png")   #.convert('LA') for grey scale
         self.ax2.imshow(self.img2)
         self.fig2.patch.set_facecolor('lightgrey')
         self.ax2.set_title('Secondary Screen',weight='bold',fontsize=20,color='royalblue')
