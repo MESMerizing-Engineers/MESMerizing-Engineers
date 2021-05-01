@@ -55,7 +55,7 @@ class MotorController:
             while not rospy.is_shutdown():
                 self.speedR = self.dx + self.dr
                 self.speedL = self.dx - self.dr
-                #message = str(self.pan) +","+ str(self.tilt) +","+ str(self.dx) + "," + str(self.dr*0.1) + "\n"
+                #message = str(self.pan) +","+ str(self.tilt) +","+ str(self.dx) + "," + str(self.dr) + "\n"
                 message = "0.0,0.0," + str(self.dx) + "," + str(self.dr) + "\n"
                 self.ser.write(message.encode('ascii'))
                 rospy.loginfo("Left Motor Speed: %f  Right Motor Speed: %f Time: %s",self.speedL,self.speedR, rospy.get_rostime() )
