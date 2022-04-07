@@ -4,8 +4,8 @@
 #define encoderRA 20 
 #define encoderRB 21
 // Motor Pins
-#define MOTORL 14
-#define MOTORR 13
+#define MOTORL 13
+#define MOTORR 12
 //#define F_CPU 1600000UL
 //define pan and tilt servo IDs
 #define PAN    1
@@ -53,16 +53,16 @@ int speed = 10;//increase this to increase the speed of the movement
 
 int countL = 0;
 int countR = 0;
-double speedForward = 0.0;
-double speedRotate = 0.0; 
+int speedForward = 0;
+int speedRotate = 0; 
 int speedL = 0; //Currently in terms of PWM width 
 int speedR = 0; //Change to velocity measurements later
 const byte numChars = 32;
 char receivedChars[numChars] =" ";  
 boolean newData = false;
-int resolution;
-double dutyL = 20000;
-double dutyR = 20000;
+unsigned long resolution = 39999;
+unsigned long dutyL = 2000;
+unsigned long dutyR = 2000;
 int frequency = 50;
 // Function Declartions
 
@@ -71,17 +71,17 @@ void parseMessage(){
   if(newData){
     char * strtokIndx;
     strtokIndx = strtok(receivedChars, ",");
-    joyPanVal = atoi(strtokIndx)*1023;
+    joyPanVal = atof(strtokIndx)*1023;
     strtokIndx = strtok(NULL, ","); 
-    joyTiltVal = atoi(strtokIndx)*1023;
+    joyTiltVal = atof(strtokIndx)*1023;
     strtokIndx = strtok(NULL, ","); 
-    speedForward = atoi(strtokIndx);
-    strtokIndx = strtok(NULL, ","); 
-    speedRotate = atoi(strtokIndx);
+    speedForward = atof(strtokIndx) *1023;
+    strtokIndx = strtok(NULL, ",") ; 
+    speedRotate = atof(strtokIndx)* 1023;
     newData = false;
   }
 }
-// Read Serial port for new messages
+// Read Serial port for new strings
 void readJetson() {
  static byte ndx = 0;
  char endMarker = '\n';
@@ -106,18 +106,15 @@ void readJetson() {
 
 // Define Custom PWM modes on pins 14 and 13
 int pwm16Init(int freq){ // hz 
-  DDRD |= (1 << 5)|(1<<4); // OC1A and OC1B pins are outputs
-  resolution = (F_CPU/ (freq*64)) - 1; // Calculate and set the frequency
-  Serial.println(resolution);
+  DDRD |= (1 << PD4)|(1<<PD5); // OC1A and OC1B pins are outputs
+  resolution = (unsigned long)((F_CPU/ (freq*8)) - 1); // Calculate and set the frequency
   // mode 14, clear OC1A on match and start timer
   TCCR1A = (1 << WGM11) | (1 << COM1A1) | (1 << COM1B1) ; //| (1<<COM1A0);
   TCCR1B = (1 << WGM13) | (1 << WGM12) | (1 << CS11); // prescale by 8
   TCCR1C = 0x00;
-  //int dc = ;
-  OCR1A = 3000; // 50% duty cycle
-  ICR1 = 0x9C3F;
-  //OCR1B = dc;
-  
+  ICR1 = 0x9C40;
+  OCR1A = resolution/2; //resolution/2; // 50% duty cycle
+  OCR1B = resolution/2;
 }
 
 void pwm16Write(int dutyL, int dutyR){
@@ -163,7 +160,7 @@ void poseMount(){
     SetPosition(TILT,tilt);
 }
 void setup(){
-pinMode(0,OUTPUT);     // setup user LED
+    pinMode(0,OUTPUT);     // setup user LED
     digitalWrite(0, HIGH); // turn user LED on to show the program is running
     Serial.begin(38400);
     Encoders.Begin();
@@ -180,7 +177,7 @@ pinMode(0,OUTPUT);     // setup user LED
       bioloid.interpolateStep();//move servos 1 'step
       delay(3);
     }
-    pwm16Init(50); // Start PWM signal for Motors
+    pwm16Init(frequency); // Start PWM signal for Motors
 }
 
 void loop(){
@@ -191,18 +188,18 @@ void loop(){
   poseMount();
   speedR = speedForward + speedRotate;
   speedL = speedForward - speedRotate;
-  dutyL = (0.0015 + .005*speedL/2) * frequency*(resolution);
-  dutyR = (0.0015 + .005*speedR/2) * frequency*(resolution);
-  // Read the Encoder values
+  //dutyL = (unsigned long)((15 + 5*speedL/2) * frequency * resolution/10000);
+  //dutyR = (unsigned long)((15 + 5*speedR/2) * frequency * resolution/10000);
+  dutyL = map(speedL,-1300,1300, 2000,4100); 
+  dutyR = map(speedR,-1300,1300, 2000,4100);
+  // ENCODERS CURRENTLY NOT BEING USED: Read the Encoder values 
   if(countL!= Encoders.left || countR != Encoders.right){
     //printEncoderCounts();
     countL = Encoders.left;
     countR = Encoders.right;
   }
-  Serial.print(dutyL);
-  Serial.println(resolution);
   //TO DO: SET Motor controllers
-  //pwm16Write(dutyL,dutyR);
+  pwm16Write(dutyL,dutyR);
   // TODO Implement PID Control
   delay(20);
 }
